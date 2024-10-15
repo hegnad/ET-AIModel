@@ -2,6 +2,7 @@ from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 from app.middleware.processPrompt import promptResponse
+from app.middleware.modeltest import model_test
 
 app = FastAPI()
 
@@ -16,5 +17,6 @@ async def read_form(request: Request):
 async def process_form(request: Request, prompt: str = Form(...)):
     # Here you can process the prompt and get the response
 
-    newResponse = promptResponse(prompt)
+    # newResponse = promptResponse(prompt)
+    newResponse = model_test(prompt)
     return templates.TemplateResponse("form.html", {"request": request, "response": newResponse})
