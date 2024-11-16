@@ -1,18 +1,25 @@
-<!-- templates/form.html -->
 <html>
   <head>
-    <title>FastAPI Form Example</title>
+    <title>AI-Driven Playlist Curation</title>
   </head>
   <body>
-    <h1>Prompt a Model</h1>
+    <h1>Generate Your Playlist</h1>
     <form method="post">
-      <label for="prompt">Enter a prompt:</label>
-      <input type="text" id="prompt" name="prompt" required />
-      <button type="submit">Submit</button>
+      <label for="genres">Favorite Genres (comma-separated):</label>
+      <input type="text" id="genres" name="genres" required />
+      <br />
+      <label for="recent">Recently Watched Titles (optional):</label>
+      <input type="text" id="recent" name="recent" />
+      <br />
+      <button type="submit">Generate Playlist</button>
     </form>
     {% if response %}
-    <h2>Response:</h2>
-    <p>{{ response }}</p>
+    <h2>Recommended Playlist:</h2>
+    <ul>
+      {% for item in response %}
+      <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
     {% endif %}
   </body>
 </html>
