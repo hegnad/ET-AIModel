@@ -1,0 +1,3556 @@
+[
+    {
+        "user_id": 1,
+        "watchlist": [
+            "Captain America: Civil War",
+            "Ant-Man",
+            "The Lion King",
+            "Bambi",
+            "Thor: Ragnarok"
+        ],
+        "watched": [
+            "Alice in Wonderland",
+            "Moana",
+            "Cars",
+            "Sleeping Beauty",
+            "A Bug's Life",
+            "Onward",
+            "Inside Out",
+            "Coco"
+        ],
+        "likes": [
+            "Finding Nemo",
+            "Turning Red",
+            "Guardians of the Galaxy Vol. 2",
+            "Zootopia",
+            "WALL-E"
+        ],
+        "ratings": {
+            "Nightmare Before Christmas": 1,
+            "Alice in Wonderland": 1,
+            "Eternals": 5,
+            "Toy Story": 2,
+            "Maleficent": 5,
+            "Turning Red": 3
+        }
+    },
+    {
+        "user_id": 2,
+        "watchlist": [
+            "Finding Nemo",
+            "Moana",
+            "Black Panther",
+            "Toy Story",
+            "Zootopia"
+        ],
+        "watched": [
+            "Coco",
+            "Eternals",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Snow White and the Seven Dwarfs",
+            "Brave",
+            "The Lion King",
+            "Cinderella"
+        ],
+        "likes": [
+            "Hocus Pocus",
+            "Turning Red",
+            "Aladdin",
+            "The Incredibles"
+        ],
+        "ratings": {
+            "The Incredibles": 4,
+            "Beauty and the Beast (2017)": 5,
+            "Guardians of the Galaxy Vol. 2": 3,
+            "Finding Nemo": 5,
+            "Dumbo": 2,
+            "Up": 4,
+            "Bambi": 3,
+            "101 Dalmatians": 1,
+            "A Bug's Life": 5,
+            "The Little Mermaid": 4
+        }
+    },
+    {
+        "user_id": 3,
+        "watchlist": [
+            "Eternals",
+            "The Avengers",
+            "Brave"
+        ],
+        "watched": [
+            "Finding Nemo",
+            "Peter Pan",
+            "Dumbo",
+            "Maleficent",
+            "Monsters, Inc.",
+            "Onward",
+            "Frozen II",
+            "Big Hero 6"
+        ],
+        "likes": [
+            "The Jungle Book",
+            "A Bug's Life",
+            "Beauty and the Beast (2017)",
+            "Cinderella"
+        ],
+        "ratings": {
+            "Finding Nemo": 1,
+            "Frozen II": 2,
+            "Beauty and the Beast (2017)": 5,
+            "Cars": 2,
+            "Snow White and the Seven Dwarfs": 3,
+            "Coco": 3,
+            "Soul": 3,
+            "Maleficent": 2,
+            "Toy Story": 5,
+            "Shang-Chi and the Legend of the Ten Rings": 5
+        }
+    },
+    {
+        "user_id": 4,
+        "watchlist": [
+            "Eternals",
+            "Cars",
+            "Guardians of the Galaxy Vol. 2",
+            "The Little Mermaid"
+        ],
+        "watched": [
+            "Up",
+            "Alice in Wonderland",
+            "The Lion King",
+            "Big Hero 6",
+            "Turning Red",
+            "Encanto",
+            "Nightmare Before Christmas",
+            "Beauty and the Beast"
+        ],
+        "likes": [
+            "Brave",
+            "Captain America: Civil War",
+            "Snow White and the Seven Dwarfs"
+        ],
+        "ratings": {
+            "Shang-Chi and the Legend of the Ten Rings": 3,
+            "Beauty and the Beast (2017)": 2,
+            "Captain America: Civil War": 3,
+            "Brave": 4,
+            "Aladdin": 3,
+            "Hocus Pocus": 1,
+            "Frozen II": 4,
+            "Zootopia": 1,
+            "Doctor Strange": 3,
+            "The Jungle Book": 1
+        }
+    },
+    {
+        "user_id": 5,
+        "watchlist": [
+            "Big Hero 6",
+            "Snow White and the Seven Dwarfs",
+            "Brave",
+            "Black Panther"
+        ],
+        "watched": [
+            "Alice in Wonderland",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Bambi",
+            "Iron Man 3",
+            "The Lion King",
+            "Toy Story",
+            "WALL-E",
+            "A Bug's Life"
+        ],
+        "likes": [
+            "Soul",
+            "Captain America: Civil War",
+            "Coco",
+            "The Jungle Book",
+            "Dumbo"
+        ],
+        "ratings": {
+            "Guardians of the Galaxy Vol. 2": 3,
+            "Black Panther": 5,
+            "Snow White and the Seven Dwarfs": 1,
+            "Cinderella": 4,
+            "Alice in Wonderland": 1,
+            "Turning Red": 5,
+            "Peter Pan": 5,
+            "The Lion King": 2,
+            "Thor: Ragnarok": 4,
+            "A Bug's Life": 2
+        }
+    },
+    {
+        "user_id": 6,
+        "watchlist": [
+            "Coco",
+            "Beauty and the Beast (2017)",
+            "Toy Story",
+            "The Incredibles",
+            "The Jungle Book",
+            "Moana"
+        ],
+        "watched": [
+            "Guardians of the Galaxy Vol. 2",
+            "Finding Nemo",
+            "Ratatouille",
+            "Sleeping Beauty",
+            "Eternals",
+            "Cars",
+            "Luca",
+            "101 Dalmatians",
+            "Bambi",
+            "Big Hero 6"
+        ],
+        "likes": [
+            "The Avengers",
+            "Alice in Wonderland",
+            "Turning Red",
+            "Black Panther",
+            "Cinderella"
+        ],
+        "ratings": {
+            "101 Dalmatians": 5,
+            "Maleficent": 3,
+            "Encanto": 5,
+            "Finding Nemo": 4,
+            "Eternals": 2,
+            "Coco": 5
+        }
+    },
+    {
+        "user_id": 7,
+        "watchlist": [
+            "Inside Out",
+            "101 Dalmatians",
+            "Ratatouille",
+            "Big Hero 6"
+        ],
+        "watched": [
+            "Turning Red",
+            "Black Panther",
+            "Dumbo",
+            "Monsters, Inc.",
+            "Onward",
+            "Maleficent",
+            "Cinderella",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Moana",
+            "Ant-Man"
+        ],
+        "likes": [
+            "Beauty and the Beast (2017)",
+            "Sleeping Beauty",
+            "Frozen II"
+        ],
+        "ratings": {
+            "Zootopia": 3,
+            "Coco": 2,
+            "Nightmare Before Christmas": 3,
+            "Thor: Ragnarok": 5,
+            "Hocus Pocus": 1,
+            "The Avengers": 5,
+            "Up": 5,
+            "Beauty and the Beast": 1,
+            "Soul": 3,
+            "Toy Story": 3
+        }
+    },
+    {
+        "user_id": 8,
+        "watchlist": [
+            "Pirates of the Caribbean",
+            "Guardians of the Galaxy Vol. 2",
+            "The Incredibles",
+            "The Lion King",
+            "Monsters, Inc.",
+            "Alice in Wonderland"
+        ],
+        "watched": [
+            "Ant-Man",
+            "Brave",
+            "The Little Mermaid",
+            "101 Dalmatians",
+            "Dumbo",
+            "Frozen II",
+            "Encanto",
+            "Captain America: Civil War",
+            "Toy Story",
+            "The Avengers"
+        ],
+        "likes": [
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Cars",
+            "Luca",
+            "Finding Nemo",
+            "Hocus Pocus"
+        ],
+        "ratings": {
+            "Moana": 1,
+            "Nightmare Before Christmas": 1,
+            "101 Dalmatians": 4,
+            "Pirates of the Caribbean": 2,
+            "Bambi": 2,
+            "Turning Red": 5,
+            "Inside Out": 2,
+            "Luca": 1
+        }
+    },
+    {
+        "user_id": 9,
+        "watchlist": [
+            "The Lion King",
+            "Doctor Strange",
+            "Encanto",
+            "Beauty and the Beast",
+            "Iron Man 3",
+            "Coco",
+            "The Avengers"
+        ],
+        "watched": [
+            "Snow White and the Seven Dwarfs",
+            "Black Panther",
+            "The Little Mermaid",
+            "The Incredibles",
+            "Nightmare Before Christmas",
+            "Ant-Man",
+            "Thor: Ragnarok",
+            "Toy Story"
+        ],
+        "likes": [
+            "Cars",
+            "101 Dalmatians",
+            "Big Hero 6",
+            "Ratatouille"
+        ],
+        "ratings": {
+            "Thor: Ragnarok": 4,
+            "WALL-E": 3,
+            "Toy Story": 2,
+            "Finding Nemo": 3,
+            "Zootopia": 4,
+            "Coco": 1,
+            "Captain America: Civil War": 3,
+            "Peter Pan": 3,
+            "Ant-Man": 2
+        }
+    },
+    {
+        "user_id": 10,
+        "watchlist": [
+            "Frozen II",
+            "The Jungle Book",
+            "Pirates of the Caribbean"
+        ],
+        "watched": [
+            "Toy Story",
+            "Big Hero 6",
+            "Eternals",
+            "Ant-Man",
+            "Beauty and the Beast (2017)",
+            "Peter Pan",
+            "Finding Nemo",
+            "Inside Out"
+        ],
+        "likes": [
+            "Cars",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Monsters, Inc.",
+            "The Avengers",
+            "Cinderella"
+        ],
+        "ratings": {
+            "Inside Out": 3,
+            "Cars": 2,
+            "Big Hero 6": 3,
+            "Snow White and the Seven Dwarfs": 3,
+            "Captain America: Civil War": 1,
+            "Finding Nemo": 5,
+            "Ant-Man": 1
+        }
+    },
+    {
+        "user_id": 11,
+        "watchlist": [
+            "Pirates of the Caribbean",
+            "Moana",
+            "Soul",
+            "Beauty and the Beast (2017)",
+            "Ratatouille",
+            "Inside Out",
+            "Cars"
+        ],
+        "watched": [
+            "Sleeping Beauty",
+            "Brave",
+            "Coco",
+            "Black Panther",
+            "Dumbo",
+            "The Jungle Book",
+            "Onward"
+        ],
+        "likes": [
+            "Frozen II",
+            "Guardians of the Galaxy Vol. 2",
+            "Up",
+            "Peter Pan",
+            "Hocus Pocus"
+        ],
+        "ratings": {
+            "Encanto": 5,
+            "Big Hero 6": 2,
+            "Aladdin": 3,
+            "101 Dalmatians": 1,
+            "Toy Story": 4
+        }
+    },
+    {
+        "user_id": 12,
+        "watchlist": [
+            "Soul",
+            "Onward",
+            "Coco",
+            "Doctor Strange",
+            "The Jungle Book",
+            "Big Hero 6"
+        ],
+        "watched": [
+            "Alice in Wonderland",
+            "Cars",
+            "A Bug's Life",
+            "Finding Nemo",
+            "Peter Pan",
+            "Luca",
+            "Cinderella"
+        ],
+        "likes": [
+            "Encanto",
+            "Aladdin",
+            "Ant-Man"
+        ],
+        "ratings": {
+            "Black Panther": 5,
+            "Nightmare Before Christmas": 4,
+            "Sleeping Beauty": 2,
+            "WALL-E": 2,
+            "Brave": 5,
+            "The Avengers": 2
+        }
+    },
+    {
+        "user_id": 13,
+        "watchlist": [
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Big Hero 6",
+            "The Avengers",
+            "101 Dalmatians",
+            "Doctor Strange",
+            "Frozen II",
+            "Beauty and the Beast"
+        ],
+        "watched": [
+            "Snow White and the Seven Dwarfs",
+            "Turning Red",
+            "Moana",
+            "Toy Story",
+            "Coco",
+            "Iron Man 3"
+        ],
+        "likes": [
+            "The Lion King",
+            "Brave",
+            "Inside Out",
+            "Monsters, Inc.",
+            "Beauty and the Beast (2017)"
+        ],
+        "ratings": {
+            "Iron Man 3": 4,
+            "Thor: Ragnarok": 3,
+            "Maleficent": 3,
+            "Beauty and the Beast": 4,
+            "Snow White and the Seven Dwarfs": 5,
+            "Guardians of the Galaxy Vol. 2": 5,
+            "Peter Pan": 1,
+            "The Little Mermaid": 1,
+            "Ratatouille": 4
+        }
+    },
+    {
+        "user_id": 14,
+        "watchlist": [
+            "The Avengers",
+            "Ratatouille",
+            "Guardians of the Galaxy Vol. 2",
+            "Maleficent",
+            "Encanto"
+        ],
+        "watched": [
+            "Frozen II",
+            "Soul",
+            "Alice in Wonderland",
+            "Inside Out",
+            "Toy Story",
+            "Cars",
+            "Dumbo",
+            "Cinderella",
+            "The Jungle Book",
+            "Iron Man 3"
+        ],
+        "likes": [
+            "WALL-E",
+            "Finding Nemo",
+            "Turning Red",
+            "Aladdin",
+            "Big Hero 6"
+        ],
+        "ratings": {
+            "Cinderella": 4,
+            "101 Dalmatians": 2,
+            "Inside Out": 5,
+            "Ratatouille": 5,
+            "Encanto": 2,
+            "The Jungle Book": 1,
+            "Shang-Chi and the Legend of the Ten Rings": 2,
+            "Snow White and the Seven Dwarfs": 5,
+            "Dumbo": 2
+        }
+    },
+    {
+        "user_id": 15,
+        "watchlist": [
+            "Encanto",
+            "Inside Out",
+            "101 Dalmatians",
+            "The Incredibles",
+            "Ant-Man"
+        ],
+        "watched": [
+            "Iron Man 3",
+            "Luca",
+            "Bambi",
+            "Up",
+            "Peter Pan",
+            "The Jungle Book",
+            "Eternals"
+        ],
+        "likes": [
+            "Finding Nemo",
+            "Sleeping Beauty",
+            "Soul",
+            "Big Hero 6"
+        ],
+        "ratings": {
+            "Guardians of the Galaxy Vol. 2": 2,
+            "Cinderella": 4,
+            "Brave": 1,
+            "Inside Out": 1,
+            "Peter Pan": 3,
+            "Frozen II": 3,
+            "Maleficent": 5,
+            "Bambi": 3,
+            "Aladdin": 3,
+            "Iron Man 3": 5
+        }
+    },
+    {
+        "user_id": 16,
+        "watchlist": [
+            "The Jungle Book",
+            "Beauty and the Beast (2017)",
+            "The Incredibles",
+            "Moana",
+            "Turning Red",
+            "WALL-E"
+        ],
+        "watched": [
+            "The Lion King",
+            "The Avengers",
+            "Coco",
+            "Big Hero 6",
+            "Dumbo",
+            "Eternals",
+            "Pirates of the Caribbean"
+        ],
+        "likes": [
+            "Aladdin",
+            "Luca",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Alice in Wonderland"
+        ],
+        "ratings": {
+            "Hocus Pocus": 1,
+            "Luca": 1,
+            "Guardians of the Galaxy Vol. 2": 4,
+            "Pirates of the Caribbean": 2,
+            "Nightmare Before Christmas": 4,
+            "Iron Man 3": 5,
+            "A Bug's Life": 2
+        }
+    },
+    {
+        "user_id": 17,
+        "watchlist": [
+            "A Bug's Life",
+            "The Lion King",
+            "Frozen II"
+        ],
+        "watched": [
+            "Finding Nemo",
+            "Encanto",
+            "Black Panther",
+            "Dumbo",
+            "The Jungle Book"
+        ],
+        "likes": [
+            "Beauty and the Beast (2017)",
+            "Coco",
+            "Peter Pan",
+            "Hocus Pocus"
+        ],
+        "ratings": {
+            "Encanto": 1,
+            "Zootopia": 5,
+            "Brave": 2,
+            "Big Hero 6": 3,
+            "Iron Man 3": 5,
+            "Finding Nemo": 3,
+            "Thor: Ragnarok": 5,
+            "Coco": 1,
+            "101 Dalmatians": 5,
+            "Alice in Wonderland": 5
+        }
+    },
+    {
+        "user_id": 18,
+        "watchlist": [
+            "Coco",
+            "101 Dalmatians",
+            "Moana",
+            "WALL-E",
+            "Dumbo",
+            "Encanto"
+        ],
+        "watched": [
+            "Finding Nemo",
+            "Turning Red",
+            "Thor: Ragnarok",
+            "Frozen II",
+            "Pirates of the Caribbean"
+        ],
+        "likes": [
+            "Up",
+            "The Incredibles",
+            "Captain America: Civil War"
+        ],
+        "ratings": {
+            "Brave": 2,
+            "Bambi": 3,
+            "Cinderella": 3,
+            "Up": 5,
+            "Doctor Strange": 4,
+            "Guardians of the Galaxy Vol. 2": 2,
+            "Hocus Pocus": 4,
+            "Ant-Man": 5
+        }
+    },
+    {
+        "user_id": 19,
+        "watchlist": [
+            "Cinderella",
+            "Aladdin",
+            "101 Dalmatians"
+        ],
+        "watched": [
+            "Monsters, Inc.",
+            "Thor: Ragnarok",
+            "Ratatouille",
+            "Peter Pan",
+            "Zootopia"
+        ],
+        "likes": [
+            "Inside Out",
+            "Dumbo",
+            "Toy Story",
+            "Cars",
+            "Onward"
+        ],
+        "ratings": {
+            "Onward": 5,
+            "The Incredibles": 1,
+            "Dumbo": 5,
+            "Black Panther": 2,
+            "The Avengers": 1
+        }
+    },
+    {
+        "user_id": 20,
+        "watchlist": [
+            "Sleeping Beauty",
+            "Thor: Ragnarok",
+            "Onward",
+            "Cinderella"
+        ],
+        "watched": [
+            "Captain America: Civil War",
+            "Alice in Wonderland",
+            "Up",
+            "Guardians of the Galaxy Vol. 2",
+            "Big Hero 6"
+        ],
+        "likes": [
+            "The Incredibles",
+            "Iron Man 3",
+            "Turning Red"
+        ],
+        "ratings": {
+            "Encanto": 2,
+            "Alice in Wonderland": 3,
+            "Captain America: Civil War": 4,
+            "Cinderella": 5,
+            "Coco": 1,
+            "Dumbo": 2,
+            "Cars": 4
+        }
+    },
+    {
+        "user_id": 21,
+        "watchlist": [
+            "WALL-E",
+            "The Jungle Book",
+            "Guardians of the Galaxy Vol. 2",
+            "Alice in Wonderland"
+        ],
+        "watched": [
+            "Nightmare Before Christmas",
+            "Turning Red",
+            "Iron Man 3",
+            "Ratatouille",
+            "Peter Pan",
+            "Onward",
+            "Bambi",
+            "A Bug's Life"
+        ],
+        "likes": [
+            "Encanto",
+            "The Avengers",
+            "101 Dalmatians"
+        ],
+        "ratings": {
+            "Nightmare Before Christmas": 3,
+            "Black Panther": 3,
+            "Captain America: Civil War": 5,
+            "Beauty and the Beast (2017)": 4,
+            "Shang-Chi and the Legend of the Ten Rings": 5,
+            "Alice in Wonderland": 5
+        }
+    },
+    {
+        "user_id": 22,
+        "watchlist": [
+            "Dumbo",
+            "Doctor Strange",
+            "Brave",
+            "Big Hero 6"
+        ],
+        "watched": [
+            "Iron Man 3",
+            "Maleficent",
+            "Snow White and the Seven Dwarfs",
+            "Soul",
+            "Bambi",
+            "Cinderella"
+        ],
+        "likes": [
+            "Captain America: Civil War",
+            "Onward",
+            "Zootopia",
+            "The Incredibles",
+            "Eternals"
+        ],
+        "ratings": {
+            "Black Panther": 2,
+            "Ant-Man": 5,
+            "Zootopia": 4,
+            "Iron Man 3": 1,
+            "The Incredibles": 5
+        }
+    },
+    {
+        "user_id": 23,
+        "watchlist": [
+            "Ratatouille",
+            "The Lion King",
+            "Sleeping Beauty",
+            "Bambi"
+        ],
+        "watched": [
+            "Beauty and the Beast",
+            "Iron Man 3",
+            "Peter Pan",
+            "WALL-E",
+            "Inside Out",
+            "Cinderella",
+            "Onward",
+            "Hocus Pocus",
+            "Big Hero 6"
+        ],
+        "likes": [
+            "Ant-Man",
+            "Aladdin",
+            "Coco"
+        ],
+        "ratings": {
+            "Doctor Strange": 3,
+            "Black Panther": 4,
+            "Luca": 3,
+            "Pirates of the Caribbean": 5,
+            "WALL-E": 3,
+            "Soul": 5,
+            "Coco": 4,
+            "Snow White and the Seven Dwarfs": 2,
+            "Alice in Wonderland": 4
+        }
+    },
+    {
+        "user_id": 24,
+        "watchlist": [
+            "Brave",
+            "Frozen II",
+            "A Bug's Life",
+            "Eternals",
+            "Black Panther",
+            "101 Dalmatians",
+            "Pirates of the Caribbean"
+        ],
+        "watched": [
+            "Doctor Strange",
+            "The Incredibles",
+            "Luca",
+            "Up",
+            "Finding Nemo",
+            "Thor: Ragnarok",
+            "Beauty and the Beast",
+            "The Little Mermaid",
+            "Dumbo",
+            "Coco"
+        ],
+        "likes": [
+            "Beauty and the Beast (2017)",
+            "Alice in Wonderland",
+            "Zootopia",
+            "Moana",
+            "Cinderella"
+        ],
+        "ratings": {
+            "Thor: Ragnarok": 2,
+            "Encanto": 4,
+            "Maleficent": 1,
+            "Cinderella": 3,
+            "Monsters, Inc.": 2
+        }
+    },
+    {
+        "user_id": 25,
+        "watchlist": [
+            "Frozen II",
+            "Maleficent",
+            "The Avengers"
+        ],
+        "watched": [
+            "Doctor Strange",
+            "Hocus Pocus",
+            "Peter Pan",
+            "Soul",
+            "Captain America: Civil War",
+            "Onward",
+            "Moana",
+            "Beauty and the Beast (2017)",
+            "Ratatouille",
+            "Black Panther"
+        ],
+        "likes": [
+            "Beauty and the Beast",
+            "A Bug's Life",
+            "Inside Out"
+        ],
+        "ratings": {
+            "Onward": 4,
+            "Inside Out": 3,
+            "Toy Story": 4,
+            "Ratatouille": 5,
+            "WALL-E": 5,
+            "Cinderella": 3,
+            "Aladdin": 3,
+            "Doctor Strange": 5,
+            "Nightmare Before Christmas": 1,
+            "Black Panther": 3
+        }
+    },
+    {
+        "user_id": 26,
+        "watchlist": [
+            "Toy Story",
+            "Black Panther",
+            "Frozen II",
+            "Captain America: Civil War",
+            "WALL-E",
+            "The Avengers",
+            "Bambi"
+        ],
+        "watched": [
+            "Finding Nemo",
+            "Nightmare Before Christmas",
+            "Alice in Wonderland",
+            "Hocus Pocus",
+            "Doctor Strange",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Beauty and the Beast (2017)",
+            "Sleeping Beauty",
+            "Moana",
+            "Luca"
+        ],
+        "likes": [
+            "Monsters, Inc.",
+            "Ratatouille",
+            "The Little Mermaid",
+            "Cinderella"
+        ],
+        "ratings": {
+            "Onward": 3,
+            "Finding Nemo": 4,
+            "WALL-E": 4,
+            "Aladdin": 4,
+            "The Lion King": 3
+        }
+    },
+    {
+        "user_id": 27,
+        "watchlist": [
+            "Dumbo",
+            "Big Hero 6",
+            "Finding Nemo",
+            "Coco",
+            "Thor: Ragnarok"
+        ],
+        "watched": [
+            "Luca",
+            "Ant-Man",
+            "Beauty and the Beast (2017)",
+            "The Lion King",
+            "Up",
+            "The Incredibles",
+            "Hocus Pocus"
+        ],
+        "likes": [
+            "Brave",
+            "Sleeping Beauty",
+            "Moana",
+            "WALL-E",
+            "Peter Pan"
+        ],
+        "ratings": {
+            "Maleficent": 5,
+            "Bambi": 4,
+            "Luca": 3,
+            "Toy Story": 2,
+            "Thor: Ragnarok": 3,
+            "Alice in Wonderland": 3,
+            "Hocus Pocus": 2
+        }
+    },
+    {
+        "user_id": 28,
+        "watchlist": [
+            "Snow White and the Seven Dwarfs",
+            "Encanto",
+            "Black Panther"
+        ],
+        "watched": [
+            "Bambi",
+            "Brave",
+            "Pirates of the Caribbean",
+            "WALL-E",
+            "Nightmare Before Christmas",
+            "Ant-Man",
+            "Doctor Strange",
+            "Beauty and the Beast (2017)",
+            "The Lion King",
+            "Captain America: Civil War"
+        ],
+        "likes": [
+            "A Bug's Life",
+            "The Little Mermaid",
+            "Frozen II",
+            "Eternals"
+        ],
+        "ratings": {
+            "Pirates of the Caribbean": 5,
+            "The Incredibles": 4,
+            "Snow White and the Seven Dwarfs": 2,
+            "Frozen II": 4,
+            "Alice in Wonderland": 3,
+            "Inside Out": 3
+        }
+    },
+    {
+        "user_id": 29,
+        "watchlist": [
+            "Aladdin",
+            "Nightmare Before Christmas",
+            "Onward",
+            "Moana",
+            "Cinderella",
+            "Hocus Pocus",
+            "Iron Man 3"
+        ],
+        "watched": [
+            "The Jungle Book",
+            "The Little Mermaid",
+            "Luca",
+            "Finding Nemo",
+            "Sleeping Beauty",
+            "101 Dalmatians",
+            "Pirates of the Caribbean"
+        ],
+        "likes": [
+            "Zootopia",
+            "Alice in Wonderland",
+            "A Bug's Life"
+        ],
+        "ratings": {
+            "Thor: Ragnarok": 1,
+            "Shang-Chi and the Legend of the Ten Rings": 4,
+            "Zootopia": 5,
+            "Pirates of the Caribbean": 3,
+            "Turning Red": 4
+        }
+    },
+    {
+        "user_id": 30,
+        "watchlist": [
+            "Captain America: Civil War",
+            "Eternals",
+            "Beauty and the Beast"
+        ],
+        "watched": [
+            "The Lion King",
+            "Finding Nemo",
+            "Black Panther",
+            "Moana",
+            "Turning Red",
+            "Toy Story"
+        ],
+        "likes": [
+            "Inside Out",
+            "Iron Man 3",
+            "Guardians of the Galaxy Vol. 2"
+        ],
+        "ratings": {
+            "Doctor Strange": 5,
+            "Alice in Wonderland": 4,
+            "Bambi": 5,
+            "The Jungle Book": 4,
+            "Up": 1,
+            "WALL-E": 3,
+            "Zootopia": 1
+        }
+    },
+    {
+        "user_id": 31,
+        "watchlist": [
+            "Big Hero 6",
+            "Maleficent",
+            "The Jungle Book",
+            "Brave",
+            "Turning Red",
+            "The Avengers"
+        ],
+        "watched": [
+            "Hocus Pocus",
+            "Dumbo",
+            "Guardians of the Galaxy Vol. 2",
+            "Finding Nemo",
+            "Doctor Strange",
+            "Monsters, Inc."
+        ],
+        "likes": [
+            "Ant-Man",
+            "Inside Out",
+            "Cinderella"
+        ],
+        "ratings": {
+            "The Incredibles": 4,
+            "Ant-Man": 2,
+            "Soul": 1,
+            "WALL-E": 2,
+            "Big Hero 6": 2,
+            "Pirates of the Caribbean": 5
+        }
+    },
+    {
+        "user_id": 32,
+        "watchlist": [
+            "Turning Red",
+            "Bambi",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "101 Dalmatians",
+            "Coco",
+            "WALL-E"
+        ],
+        "watched": [
+            "Up",
+            "Encanto",
+            "A Bug's Life",
+            "Soul",
+            "Ratatouille",
+            "Thor: Ragnarok",
+            "The Avengers",
+            "Ant-Man",
+            "Inside Out",
+            "Onward"
+        ],
+        "likes": [
+            "Brave",
+            "The Little Mermaid",
+            "Beauty and the Beast (2017)",
+            "Nightmare Before Christmas",
+            "Black Panther"
+        ],
+        "ratings": {
+            "Nightmare Before Christmas": 1,
+            "Pirates of the Caribbean": 5,
+            "Maleficent": 3,
+            "The Jungle Book": 3,
+            "Beauty and the Beast (2017)": 1,
+            "Iron Man 3": 1,
+            "Big Hero 6": 5,
+            "Encanto": 4
+        }
+    },
+    {
+        "user_id": 33,
+        "watchlist": [
+            "Doctor Strange",
+            "The Little Mermaid",
+            "Eternals",
+            "Beauty and the Beast",
+            "Alice in Wonderland"
+        ],
+        "watched": [
+            "Coco",
+            "Moana",
+            "Finding Nemo",
+            "Beauty and the Beast (2017)",
+            "Big Hero 6",
+            "Frozen II",
+            "Iron Man 3",
+            "Ratatouille"
+        ],
+        "likes": [
+            "Up",
+            "Aladdin",
+            "Bambi",
+            "Nightmare Before Christmas"
+        ],
+        "ratings": {
+            "Beauty and the Beast": 4,
+            "Ant-Man": 3,
+            "Coco": 5,
+            "The Lion King": 2,
+            "Inside Out": 1,
+            "Beauty and the Beast (2017)": 2
+        }
+    },
+    {
+        "user_id": 34,
+        "watchlist": [
+            "Hocus Pocus",
+            "Nightmare Before Christmas",
+            "Captain America: Civil War",
+            "Beauty and the Beast (2017)",
+            "Brave",
+            "The Jungle Book",
+            "The Little Mermaid"
+        ],
+        "watched": [
+            "Coco",
+            "Aladdin",
+            "The Incredibles",
+            "Guardians of the Galaxy Vol. 2",
+            "Black Panther",
+            "Bambi",
+            "Maleficent"
+        ],
+        "likes": [
+            "Ant-Man",
+            "Monsters, Inc.",
+            "Moana",
+            "101 Dalmatians",
+            "Big Hero 6"
+        ],
+        "ratings": {
+            "The Little Mermaid": 4,
+            "Guardians of the Galaxy Vol. 2": 5,
+            "Dumbo": 1,
+            "Captain America: Civil War": 4,
+            "Ant-Man": 3,
+            "Encanto": 4,
+            "Cars": 1,
+            "Bambi": 5,
+            "The Incredibles": 3,
+            "Aladdin": 4
+        }
+    },
+    {
+        "user_id": 35,
+        "watchlist": [
+            "Bambi",
+            "Black Panther",
+            "Hocus Pocus",
+            "The Lion King",
+            "Pirates of the Caribbean",
+            "Dumbo",
+            "Snow White and the Seven Dwarfs"
+        ],
+        "watched": [
+            "Doctor Strange",
+            "Brave",
+            "The Incredibles",
+            "Ant-Man",
+            "Moana",
+            "Eternals",
+            "Cars"
+        ],
+        "likes": [
+            "Turning Red",
+            "Toy Story",
+            "Iron Man 3"
+        ],
+        "ratings": {
+            "Moana": 3,
+            "Doctor Strange": 5,
+            "Soul": 5,
+            "The Avengers": 2,
+            "Hocus Pocus": 3,
+            "Zootopia": 2,
+            "Big Hero 6": 1
+        }
+    },
+    {
+        "user_id": 36,
+        "watchlist": [
+            "Nightmare Before Christmas",
+            "Soul",
+            "Big Hero 6",
+            "Maleficent",
+            "Sleeping Beauty"
+        ],
+        "watched": [
+            "Moana",
+            "A Bug's Life",
+            "Up",
+            "Doctor Strange",
+            "The Incredibles",
+            "Hocus Pocus",
+            "Frozen II"
+        ],
+        "likes": [
+            "101 Dalmatians",
+            "Eternals",
+            "The Lion King"
+        ],
+        "ratings": {
+            "Eternals": 1,
+            "Guardians of the Galaxy Vol. 2": 2,
+            "Black Panther": 2,
+            "Shang-Chi and the Legend of the Ten Rings": 2,
+            "Beauty and the Beast (2017)": 5,
+            "The Lion King": 4,
+            "A Bug's Life": 2,
+            "Dumbo": 2,
+            "Ratatouille": 4
+        }
+    },
+    {
+        "user_id": 37,
+        "watchlist": [
+            "Monsters, Inc.",
+            "Sleeping Beauty",
+            "Big Hero 6",
+            "Doctor Strange",
+            "Inside Out",
+            "Bambi"
+        ],
+        "watched": [
+            "Cars",
+            "Luca",
+            "WALL-E",
+            "The Little Mermaid",
+            "Captain America: Civil War",
+            "Peter Pan",
+            "Guardians of the Galaxy Vol. 2",
+            "Soul",
+            "Maleficent"
+        ],
+        "likes": [
+            "Pirates of the Caribbean",
+            "Toy Story",
+            "Encanto"
+        ],
+        "ratings": {
+            "The Incredibles": 3,
+            "Aladdin": 4,
+            "WALL-E": 5,
+            "Thor: Ragnarok": 2,
+            "Soul": 1,
+            "Dumbo": 1
+        }
+    },
+    {
+        "user_id": 38,
+        "watchlist": [
+            "Pirates of the Caribbean",
+            "Coco",
+            "Ratatouille"
+        ],
+        "watched": [
+            "Cars",
+            "Black Panther",
+            "Inside Out",
+            "Big Hero 6",
+            "Snow White and the Seven Dwarfs",
+            "101 Dalmatians"
+        ],
+        "likes": [
+            "The Jungle Book",
+            "Guardians of the Galaxy Vol. 2",
+            "Soul"
+        ],
+        "ratings": {
+            "Big Hero 6": 2,
+            "The Little Mermaid": 4,
+            "Cinderella": 2,
+            "Peter Pan": 5,
+            "Monsters, Inc.": 5,
+            "Cars": 5,
+            "Aladdin": 2
+        }
+    },
+    {
+        "user_id": 39,
+        "watchlist": [
+            "Cars",
+            "The Lion King",
+            "The Jungle Book",
+            "The Little Mermaid"
+        ],
+        "watched": [
+            "Maleficent",
+            "Aladdin",
+            "Guardians of the Galaxy Vol. 2",
+            "Doctor Strange",
+            "Alice in Wonderland"
+        ],
+        "likes": [
+            "Soul",
+            "Pirates of the Caribbean",
+            "Eternals"
+        ],
+        "ratings": {
+            "Shang-Chi and the Legend of the Ten Rings": 4,
+            "Snow White and the Seven Dwarfs": 4,
+            "Black Panther": 2,
+            "Monsters, Inc.": 1,
+            "Big Hero 6": 3,
+            "Nightmare Before Christmas": 2,
+            "Captain America: Civil War": 2,
+            "Beauty and the Beast": 5,
+            "Turning Red": 2,
+            "The Little Mermaid": 4
+        }
+    },
+    {
+        "user_id": 40,
+        "watchlist": [
+            "Captain America: Civil War",
+            "Nightmare Before Christmas",
+            "Aladdin",
+            "The Incredibles",
+            "A Bug's Life"
+        ],
+        "watched": [
+            "Iron Man 3",
+            "Zootopia",
+            "Encanto",
+            "Peter Pan",
+            "Toy Story",
+            "Turning Red",
+            "Soul",
+            "Big Hero 6"
+        ],
+        "likes": [
+            "Beauty and the Beast",
+            "Snow White and the Seven Dwarfs",
+            "Thor: Ragnarok"
+        ],
+        "ratings": {
+            "101 Dalmatians": 5,
+            "The Little Mermaid": 2,
+            "Monsters, Inc.": 5,
+            "Ratatouille": 4,
+            "Peter Pan": 1,
+            "Toy Story": 1
+        }
+    },
+    {
+        "user_id": 41,
+        "watchlist": [
+            "Iron Man 3",
+            "Up",
+            "Soul",
+            "Hocus Pocus",
+            "Sleeping Beauty",
+            "Pirates of the Caribbean"
+        ],
+        "watched": [
+            "Zootopia",
+            "Inside Out",
+            "Bambi",
+            "Cars",
+            "A Bug's Life",
+            "The Jungle Book"
+        ],
+        "likes": [
+            "Frozen II",
+            "Doctor Strange",
+            "Captain America: Civil War"
+        ],
+        "ratings": {
+            "Iron Man 3": 1,
+            "Turning Red": 3,
+            "Beauty and the Beast (2017)": 1,
+            "Maleficent": 2,
+            "Alice in Wonderland": 2,
+            "The Jungle Book": 2,
+            "Frozen II": 1
+        }
+    },
+    {
+        "user_id": 42,
+        "watchlist": [
+            "Ant-Man",
+            "The Little Mermaid",
+            "Black Panther",
+            "Moana",
+            "101 Dalmatians"
+        ],
+        "watched": [
+            "Guardians of the Galaxy Vol. 2",
+            "Eternals",
+            "Beauty and the Beast",
+            "Alice in Wonderland",
+            "Peter Pan",
+            "Onward"
+        ],
+        "likes": [
+            "Soul",
+            "A Bug's Life",
+            "Monsters, Inc."
+        ],
+        "ratings": {
+            "Aladdin": 4,
+            "Cars": 4,
+            "The Jungle Book": 2,
+            "Big Hero 6": 5,
+            "Encanto": 3,
+            "Inside Out": 3,
+            "Snow White and the Seven Dwarfs": 4,
+            "Luca": 2,
+            "Black Panther": 1
+        }
+    },
+    {
+        "user_id": 43,
+        "watchlist": [
+            "Bambi",
+            "Up",
+            "Sleeping Beauty",
+            "Dumbo",
+            "Turning Red",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "watched": [
+            "Alice in Wonderland",
+            "Captain America: Civil War",
+            "The Little Mermaid",
+            "Inside Out",
+            "Finding Nemo",
+            "Eternals",
+            "Guardians of the Galaxy Vol. 2",
+            "Hocus Pocus",
+            "Aladdin"
+        ],
+        "likes": [
+            "The Lion King",
+            "Black Panther",
+            "Big Hero 6",
+            "Soul"
+        ],
+        "ratings": {
+            "Dumbo": 1,
+            "Hocus Pocus": 3,
+            "A Bug's Life": 3,
+            "The Incredibles": 4,
+            "Up": 3,
+            "Turning Red": 1,
+            "Aladdin": 4,
+            "The Little Mermaid": 1,
+            "Thor: Ragnarok": 4,
+            "Inside Out": 3
+        }
+    },
+    {
+        "user_id": 44,
+        "watchlist": [
+            "Zootopia",
+            "Finding Nemo",
+            "Sleeping Beauty",
+            "Nightmare Before Christmas",
+            "A Bug's Life",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "watched": [
+            "Ratatouille",
+            "Turning Red",
+            "Bambi",
+            "Aladdin",
+            "The Lion King",
+            "Luca"
+        ],
+        "likes": [
+            "Peter Pan",
+            "Frozen II",
+            "Thor: Ragnarok"
+        ],
+        "ratings": {
+            "Cinderella": 2,
+            "Finding Nemo": 5,
+            "Brave": 2,
+            "Guardians of the Galaxy Vol. 2": 1,
+            "Peter Pan": 4,
+            "Iron Man 3": 1,
+            "Cars": 3,
+            "A Bug's Life": 2
+        }
+    },
+    {
+        "user_id": 45,
+        "watchlist": [
+            "Eternals",
+            "Maleficent",
+            "Snow White and the Seven Dwarfs",
+            "Dumbo"
+        ],
+        "watched": [
+            "Ratatouille",
+            "Beauty and the Beast (2017)",
+            "Soul",
+            "Aladdin",
+            "Brave",
+            "Nightmare Before Christmas",
+            "Iron Man 3",
+            "Big Hero 6",
+            "Frozen II"
+        ],
+        "likes": [
+            "Doctor Strange",
+            "WALL-E",
+            "The Incredibles"
+        ],
+        "ratings": {
+            "Coco": 2,
+            "Black Panther": 1,
+            "Beauty and the Beast": 4,
+            "The Avengers": 1,
+            "Big Hero 6": 5,
+            "Encanto": 1,
+            "Inside Out": 1,
+            "Luca": 2,
+            "The Jungle Book": 5
+        }
+    },
+    {
+        "user_id": 46,
+        "watchlist": [
+            "Cinderella",
+            "A Bug's Life",
+            "Guardians of the Galaxy Vol. 2",
+            "WALL-E"
+        ],
+        "watched": [
+            "Turning Red",
+            "Doctor Strange",
+            "101 Dalmatians",
+            "Bambi",
+            "Dumbo",
+            "Frozen II",
+            "Luca"
+        ],
+        "likes": [
+            "Thor: Ragnarok",
+            "The Little Mermaid",
+            "Ant-Man",
+            "Soul",
+            "The Avengers"
+        ],
+        "ratings": {
+            "Captain America: Civil War": 3,
+            "A Bug's Life": 2,
+            "Turning Red": 1,
+            "Brave": 3,
+            "Up": 4,
+            "Snow White and the Seven Dwarfs": 5,
+            "Beauty and the Beast (2017)": 4,
+            "Inside Out": 4,
+            "Encanto": 3
+        }
+    },
+    {
+        "user_id": 47,
+        "watchlist": [
+            "Cars",
+            "Frozen II",
+            "Big Hero 6",
+            "Luca"
+        ],
+        "watched": [
+            "The Incredibles",
+            "Beauty and the Beast",
+            "Nightmare Before Christmas",
+            "Beauty and the Beast (2017)",
+            "Inside Out",
+            "The Little Mermaid",
+            "Doctor Strange",
+            "Aladdin",
+            "Eternals",
+            "Toy Story"
+        ],
+        "likes": [
+            "Iron Man 3",
+            "Moana",
+            "Pirates of the Caribbean",
+            "Soul"
+        ],
+        "ratings": {
+            "Dumbo": 4,
+            "101 Dalmatians": 2,
+            "The Little Mermaid": 4,
+            "Alice in Wonderland": 5,
+            "A Bug's Life": 4,
+            "Aladdin": 5,
+            "Toy Story": 3,
+            "The Lion King": 5,
+            "Encanto": 4
+        }
+    },
+    {
+        "user_id": 48,
+        "watchlist": [
+            "Beauty and the Beast (2017)",
+            "Cinderella",
+            "Monsters, Inc.",
+            "Aladdin"
+        ],
+        "watched": [
+            "Maleficent",
+            "Big Hero 6",
+            "Brave",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "The Jungle Book",
+            "The Incredibles",
+            "Moana",
+            "Soul",
+            "Finding Nemo",
+            "Ratatouille"
+        ],
+        "likes": [
+            "The Little Mermaid",
+            "Nightmare Before Christmas",
+            "Captain America: Civil War"
+        ],
+        "ratings": {
+            "Thor: Ragnarok": 4,
+            "Ratatouille": 2,
+            "Turning Red": 4,
+            "Sleeping Beauty": 1,
+            "Frozen II": 3,
+            "Doctor Strange": 3,
+            "Iron Man 3": 2,
+            "The Avengers": 4,
+            "Zootopia": 3
+        }
+    },
+    {
+        "user_id": 49,
+        "watchlist": [
+            "Encanto",
+            "Zootopia",
+            "Beauty and the Beast",
+            "Thor: Ragnarok",
+            "Maleficent",
+            "Soul",
+            "Monsters, Inc."
+        ],
+        "watched": [
+            "Turning Red",
+            "Iron Man 3",
+            "Pirates of the Caribbean",
+            "Up",
+            "Guardians of the Galaxy Vol. 2",
+            "The Little Mermaid",
+            "Coco",
+            "Nightmare Before Christmas",
+            "Dumbo",
+            "Beauty and the Beast (2017)"
+        ],
+        "likes": [
+            "Cinderella",
+            "Inside Out",
+            "Brave",
+            "Big Hero 6"
+        ],
+        "ratings": {
+            "Frozen II": 5,
+            "Ratatouille": 2,
+            "Sleeping Beauty": 5,
+            "Snow White and the Seven Dwarfs": 5,
+            "A Bug's Life": 1,
+            "Hocus Pocus": 1
+        }
+    },
+    {
+        "user_id": 50,
+        "watchlist": [
+            "Alice in Wonderland",
+            "Ant-Man",
+            "The Little Mermaid",
+            "Captain America: Civil War"
+        ],
+        "watched": [
+            "The Lion King",
+            "Inside Out",
+            "Monsters, Inc.",
+            "Dumbo",
+            "Eternals",
+            "Big Hero 6",
+            "The Incredibles",
+            "101 Dalmatians",
+            "The Jungle Book",
+            "Luca"
+        ],
+        "likes": [
+            "Coco",
+            "Peter Pan",
+            "Toy Story",
+            "Sleeping Beauty"
+        ],
+        "ratings": {
+            "101 Dalmatians": 5,
+            "Luca": 1,
+            "Monsters, Inc.": 4,
+            "The Lion King": 2,
+            "Toy Story": 4
+        }
+    },
+    {
+        "user_id": 51,
+        "watchlist": [
+            "Monsters, Inc.",
+            "Beauty and the Beast",
+            "Inside Out",
+            "A Bug's Life",
+            "Up",
+            "Sleeping Beauty",
+            "Onward"
+        ],
+        "watched": [
+            "Captain America: Civil War",
+            "The Jungle Book",
+            "Big Hero 6",
+            "The Lion King",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "likes": [
+            "Peter Pan",
+            "Black Panther",
+            "Frozen II",
+            "Thor: Ragnarok",
+            "Snow White and the Seven Dwarfs"
+        ],
+        "ratings": {
+            "Big Hero 6": 5,
+            "Nightmare Before Christmas": 5,
+            "Sleeping Beauty": 3,
+            "Zootopia": 3,
+            "Finding Nemo": 1,
+            "The Avengers": 2,
+            "Captain America: Civil War": 5,
+            "Hocus Pocus": 3
+        }
+    },
+    {
+        "user_id": 52,
+        "watchlist": [
+            "Brave",
+            "Moana",
+            "Thor: Ragnarok"
+        ],
+        "watched": [
+            "Nightmare Before Christmas",
+            "Black Panther",
+            "Aladdin",
+            "Luca",
+            "Finding Nemo",
+            "Doctor Strange",
+            "Beauty and the Beast"
+        ],
+        "likes": [
+            "Sleeping Beauty",
+            "Cars",
+            "Ant-Man",
+            "Maleficent"
+        ],
+        "ratings": {
+            "Aladdin": 3,
+            "Iron Man 3": 1,
+            "Toy Story": 2,
+            "Cinderella": 2,
+            "Dumbo": 4
+        }
+    },
+    {
+        "user_id": 53,
+        "watchlist": [
+            "Up",
+            "The Incredibles",
+            "Snow White and the Seven Dwarfs"
+        ],
+        "watched": [
+            "Coco",
+            "Thor: Ragnarok",
+            "Guardians of the Galaxy Vol. 2",
+            "Turning Red",
+            "Eternals",
+            "The Jungle Book",
+            "WALL-E",
+            "Beauty and the Beast (2017)",
+            "Zootopia",
+            "Hocus Pocus"
+        ],
+        "likes": [
+            "Black Panther",
+            "Moana",
+            "Onward",
+            "Luca",
+            "Captain America: Civil War"
+        ],
+        "ratings": {
+            "Ratatouille": 3,
+            "Toy Story": 2,
+            "Frozen II": 3,
+            "Brave": 5,
+            "Eternals": 2,
+            "Moana": 2,
+            "Maleficent": 2,
+            "Doctor Strange": 3
+        }
+    },
+    {
+        "user_id": 54,
+        "watchlist": [
+            "Encanto",
+            "Captain America: Civil War",
+            "Toy Story",
+            "Cinderella",
+            "Hocus Pocus"
+        ],
+        "watched": [
+            "Cars",
+            "Doctor Strange",
+            "101 Dalmatians",
+            "Inside Out",
+            "Guardians of the Galaxy Vol. 2",
+            "Monsters, Inc."
+        ],
+        "likes": [
+            "Ant-Man",
+            "Aladdin",
+            "Coco",
+            "Iron Man 3",
+            "The Incredibles"
+        ],
+        "ratings": {
+            "Beauty and the Beast": 4,
+            "The Jungle Book": 1,
+            "Maleficent": 4,
+            "The Little Mermaid": 5,
+            "Coco": 1,
+            "Black Panther": 4,
+            "Doctor Strange": 2,
+            "WALL-E": 4
+        }
+    },
+    {
+        "user_id": 55,
+        "watchlist": [
+            "Beauty and the Beast",
+            "Moana",
+            "The Lion King",
+            "101 Dalmatians"
+        ],
+        "watched": [
+            "The Incredibles",
+            "Alice in Wonderland",
+            "Cinderella",
+            "Captain America: Civil War",
+            "Monsters, Inc.",
+            "The Jungle Book",
+            "Thor: Ragnarok",
+            "Maleficent",
+            "Brave"
+        ],
+        "likes": [
+            "Hocus Pocus",
+            "Zootopia",
+            "The Little Mermaid",
+            "Eternals",
+            "Toy Story"
+        ],
+        "ratings": {
+            "Zootopia": 5,
+            "Aladdin": 5,
+            "101 Dalmatians": 3,
+            "Dumbo": 3,
+            "Brave": 2,
+            "Peter Pan": 1,
+            "The Incredibles": 2
+        }
+    },
+    {
+        "user_id": 56,
+        "watchlist": [
+            "Maleficent",
+            "Frozen II",
+            "Turning Red",
+            "Toy Story"
+        ],
+        "watched": [
+            "Zootopia",
+            "Moana",
+            "Aladdin",
+            "WALL-E",
+            "Snow White and the Seven Dwarfs",
+            "Encanto"
+        ],
+        "likes": [
+            "Up",
+            "Bambi",
+            "Big Hero 6",
+            "Inside Out"
+        ],
+        "ratings": {
+            "Beauty and the Beast": 4,
+            "Sleeping Beauty": 3,
+            "Nightmare Before Christmas": 4,
+            "Beauty and the Beast (2017)": 3,
+            "Bambi": 2,
+            "The Lion King": 1,
+            "Inside Out": 4,
+            "Encanto": 1,
+            "The Little Mermaid": 4
+        }
+    },
+    {
+        "user_id": 57,
+        "watchlist": [
+            "Coco",
+            "Inside Out",
+            "Beauty and the Beast (2017)",
+            "The Lion King",
+            "Captain America: Civil War"
+        ],
+        "watched": [
+            "Pirates of the Caribbean",
+            "Maleficent",
+            "The Incredibles",
+            "Big Hero 6",
+            "Zootopia"
+        ],
+        "likes": [
+            "Bambi",
+            "Thor: Ragnarok",
+            "Turning Red",
+            "The Avengers"
+        ],
+        "ratings": {
+            "Bambi": 2,
+            "Big Hero 6": 3,
+            "Moana": 1,
+            "Beauty and the Beast": 3,
+            "Onward": 5,
+            "Doctor Strange": 1,
+            "Sleeping Beauty": 5,
+            "Guardians of the Galaxy Vol. 2": 4,
+            "The Jungle Book": 3
+        }
+    },
+    {
+        "user_id": 58,
+        "watchlist": [
+            "Cars",
+            "Pirates of the Caribbean",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "The Avengers"
+        ],
+        "watched": [
+            "WALL-E",
+            "The Little Mermaid",
+            "Maleficent",
+            "The Incredibles",
+            "Brave",
+            "Big Hero 6"
+        ],
+        "likes": [
+            "Cinderella",
+            "Toy Story",
+            "Ant-Man",
+            "Nightmare Before Christmas",
+            "Frozen II"
+        ],
+        "ratings": {
+            "Coco": 1,
+            "Up": 2,
+            "Frozen II": 1,
+            "Maleficent": 4,
+            "Snow White and the Seven Dwarfs": 2,
+            "Shang-Chi and the Legend of the Ten Rings": 3
+        }
+    },
+    {
+        "user_id": 59,
+        "watchlist": [
+            "The Avengers",
+            "Black Panther",
+            "Aladdin",
+            "Guardians of the Galaxy Vol. 2",
+            "Doctor Strange",
+            "Peter Pan"
+        ],
+        "watched": [
+            "Bambi",
+            "A Bug's Life",
+            "Up",
+            "The Little Mermaid",
+            "Big Hero 6",
+            "The Lion King",
+            "Pirates of the Caribbean",
+            "Moana"
+        ],
+        "likes": [
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Cars",
+            "Monsters, Inc.",
+            "Hocus Pocus"
+        ],
+        "ratings": {
+            "Monsters, Inc.": 3,
+            "Thor: Ragnarok": 3,
+            "Black Panther": 2,
+            "Moana": 1,
+            "Iron Man 3": 4,
+            "Finding Nemo": 5
+        }
+    },
+    {
+        "user_id": 60,
+        "watchlist": [
+            "Soul",
+            "Moana",
+            "Finding Nemo",
+            "Onward",
+            "Turning Red"
+        ],
+        "watched": [
+            "101 Dalmatians",
+            "Cinderella",
+            "Coco",
+            "Encanto",
+            "Nightmare Before Christmas",
+            "Ratatouille",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Zootopia",
+            "Big Hero 6"
+        ],
+        "likes": [
+            "Monsters, Inc.",
+            "WALL-E",
+            "Iron Man 3"
+        ],
+        "ratings": {
+            "The Incredibles": 1,
+            "Shang-Chi and the Legend of the Ten Rings": 3,
+            "Beauty and the Beast": 2,
+            "WALL-E": 1,
+            "Finding Nemo": 2,
+            "Luca": 2,
+            "A Bug's Life": 3,
+            "Inside Out": 3,
+            "Ant-Man": 3
+        }
+    },
+    {
+        "user_id": 61,
+        "watchlist": [
+            "Moana",
+            "The Little Mermaid",
+            "Toy Story",
+            "Ratatouille",
+            "Peter Pan",
+            "Big Hero 6",
+            "Brave"
+        ],
+        "watched": [
+            "Dumbo",
+            "Cars",
+            "Guardians of the Galaxy Vol. 2",
+            "Onward",
+            "The Lion King",
+            "Inside Out",
+            "Alice in Wonderland",
+            "Sleeping Beauty"
+        ],
+        "likes": [
+            "Luca",
+            "Encanto",
+            "101 Dalmatians",
+            "Maleficent"
+        ],
+        "ratings": {
+            "Shang-Chi and the Legend of the Ten Rings": 3,
+            "Bambi": 3,
+            "Brave": 1,
+            "Ratatouille": 1,
+            "Finding Nemo": 1,
+            "Monsters, Inc.": 1,
+            "Zootopia": 2,
+            "Encanto": 1
+        }
+    },
+    {
+        "user_id": 62,
+        "watchlist": [
+            "Ratatouille",
+            "Encanto",
+            "Soul",
+            "Iron Man 3",
+            "Frozen II",
+            "Ant-Man",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "watched": [
+            "WALL-E",
+            "Bambi",
+            "Guardians of the Galaxy Vol. 2",
+            "The Avengers",
+            "Monsters, Inc.",
+            "Coco"
+        ],
+        "likes": [
+            "Nightmare Before Christmas",
+            "Sleeping Beauty",
+            "Maleficent",
+            "Turning Red"
+        ],
+        "ratings": {
+            "Cinderella": 3,
+            "Sleeping Beauty": 2,
+            "Iron Man 3": 2,
+            "Alice in Wonderland": 4,
+            "Frozen II": 5
+        }
+    },
+    {
+        "user_id": 63,
+        "watchlist": [
+            "Black Panther",
+            "Bambi",
+            "Encanto",
+            "Doctor Strange",
+            "Onward"
+        ],
+        "watched": [
+            "Aladdin",
+            "Luca",
+            "Up",
+            "Pirates of the Caribbean",
+            "Alice in Wonderland",
+            "Maleficent",
+            "Nightmare Before Christmas"
+        ],
+        "likes": [
+            "Cars",
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Iron Man 3",
+            "Monsters, Inc.",
+            "Inside Out"
+        ],
+        "ratings": {
+            "Toy Story": 3,
+            "The Jungle Book": 3,
+            "Zootopia": 2,
+            "Aladdin": 1,
+            "Big Hero 6": 2,
+            "Frozen II": 2,
+            "Iron Man 3": 4,
+            "The Lion King": 2
+        }
+    },
+    {
+        "user_id": 64,
+        "watchlist": [
+            "The Little Mermaid",
+            "Bambi",
+            "Black Panther",
+            "Big Hero 6",
+            "Brave",
+            "Ant-Man",
+            "The Jungle Book"
+        ],
+        "watched": [
+            "Luca",
+            "101 Dalmatians",
+            "Ratatouille",
+            "Iron Man 3",
+            "Zootopia",
+            "Captain America: Civil War"
+        ],
+        "likes": [
+            "Up",
+            "Hocus Pocus",
+            "Toy Story"
+        ],
+        "ratings": {
+            "Ant-Man": 4,
+            "The Avengers": 1,
+            "Beauty and the Beast": 1,
+            "Thor: Ragnarok": 3,
+            "A Bug's Life": 4,
+            "Inside Out": 2,
+            "Cinderella": 4,
+            "Aladdin": 5,
+            "Maleficent": 3,
+            "Peter Pan": 3
+        }
+    },
+    {
+        "user_id": 65,
+        "watchlist": [
+            "Hocus Pocus",
+            "The Jungle Book",
+            "Eternals",
+            "Inside Out",
+            "Cars"
+        ],
+        "watched": [
+            "Ratatouille",
+            "The Little Mermaid",
+            "Black Panther",
+            "Moana",
+            "Beauty and the Beast",
+            "Dumbo",
+            "Soul",
+            "Turning Red",
+            "Cinderella"
+        ],
+        "likes": [
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Snow White and the Seven Dwarfs",
+            "Nightmare Before Christmas"
+        ],
+        "ratings": {
+            "The Avengers": 5,
+            "Sleeping Beauty": 2,
+            "Aladdin": 1,
+            "Peter Pan": 2,
+            "Up": 5,
+            "101 Dalmatians": 5,
+            "Zootopia": 1,
+            "The Little Mermaid": 1,
+            "Hocus Pocus": 4,
+            "WALL-E": 4
+        }
+    },
+    {
+        "user_id": 66,
+        "watchlist": [
+            "Monsters, Inc.",
+            "101 Dalmatians",
+            "Soul",
+            "Aladdin",
+            "Turning Red",
+            "Black Panther"
+        ],
+        "watched": [
+            "Maleficent",
+            "Big Hero 6",
+            "The Little Mermaid",
+            "Beauty and the Beast (2017)",
+            "Luca",
+            "Inside Out",
+            "Guardians of the Galaxy Vol. 2",
+            "Bambi"
+        ],
+        "likes": [
+            "The Avengers",
+            "Ant-Man",
+            "Cinderella"
+        ],
+        "ratings": {
+            "Pirates of the Caribbean": 2,
+            "Ant-Man": 1,
+            "Aladdin": 1,
+            "Moana": 5,
+            "Eternals": 5,
+            "The Jungle Book": 5,
+            "Brave": 2,
+            "Onward": 4,
+            "Zootopia": 5,
+            "Peter Pan": 2
+        }
+    },
+    {
+        "user_id": 67,
+        "watchlist": [
+            "Alice in Wonderland",
+            "Black Panther",
+            "Coco",
+            "Ratatouille",
+            "WALL-E",
+            "Hocus Pocus"
+        ],
+        "watched": [
+            "A Bug's Life",
+            "The Avengers",
+            "Dumbo",
+            "Doctor Strange",
+            "Turning Red"
+        ],
+        "likes": [
+            "Aladdin",
+            "Captain America: Civil War",
+            "Ant-Man"
+        ],
+        "ratings": {
+            "The Jungle Book": 3,
+            "Beauty and the Beast (2017)": 4,
+            "Eternals": 5,
+            "Black Panther": 3,
+            "Encanto": 1,
+            "Cars": 5,
+            "Ant-Man": 2
+        }
+    },
+    {
+        "user_id": 68,
+        "watchlist": [
+            "Toy Story",
+            "Peter Pan",
+            "Luca",
+            "Monsters, Inc.",
+            "The Jungle Book",
+            "Frozen II"
+        ],
+        "watched": [
+            "Bambi",
+            "Encanto",
+            "Beauty and the Beast",
+            "Zootopia",
+            "Ratatouille",
+            "Aladdin",
+            "Onward",
+            "Snow White and the Seven Dwarfs",
+            "Inside Out"
+        ],
+        "likes": [
+            "Up",
+            "Big Hero 6",
+            "Ant-Man"
+        ],
+        "ratings": {
+            "Up": 1,
+            "Eternals": 3,
+            "Hocus Pocus": 2,
+            "Finding Nemo": 4,
+            "Beauty and the Beast (2017)": 1,
+            "Encanto": 4,
+            "Inside Out": 5,
+            "Guardians of the Galaxy Vol. 2": 4,
+            "Bambi": 1
+        }
+    },
+    {
+        "user_id": 69,
+        "watchlist": [
+            "Hocus Pocus",
+            "Coco",
+            "Brave",
+            "A Bug's Life",
+            "Frozen II",
+            "Iron Man 3"
+        ],
+        "watched": [
+            "Finding Nemo",
+            "Beauty and the Beast (2017)",
+            "Big Hero 6",
+            "Black Panther",
+            "Thor: Ragnarok",
+            "Doctor Strange",
+            "Ant-Man",
+            "Zootopia",
+            "The Incredibles"
+        ],
+        "likes": [
+            "Turning Red",
+            "101 Dalmatians",
+            "Captain America: Civil War",
+            "Inside Out"
+        ],
+        "ratings": {
+            "Soul": 1,
+            "A Bug's Life": 4,
+            "Turning Red": 2,
+            "Guardians of the Galaxy Vol. 2": 5,
+            "Nightmare Before Christmas": 5,
+            "The Lion King": 2,
+            "Aladdin": 5
+        }
+    },
+    {
+        "user_id": 70,
+        "watchlist": [
+            "Cars",
+            "Nightmare Before Christmas",
+            "Iron Man 3",
+            "Captain America: Civil War",
+            "The Little Mermaid",
+            "Hocus Pocus"
+        ],
+        "watched": [
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Doctor Strange",
+            "Bambi",
+            "Eternals",
+            "Toy Story"
+        ],
+        "likes": [
+            "WALL-E",
+            "Snow White and the Seven Dwarfs",
+            "101 Dalmatians",
+            "Finding Nemo"
+        ],
+        "ratings": {
+            "Nightmare Before Christmas": 5,
+            "Bambi": 2,
+            "The Lion King": 3,
+            "Eternals": 2,
+            "Inside Out": 1
+        }
+    },
+    {
+        "user_id": 71,
+        "watchlist": [
+            "Ratatouille",
+            "Dumbo",
+            "Big Hero 6"
+        ],
+        "watched": [
+            "Iron Man 3",
+            "Bambi",
+            "Doctor Strange",
+            "101 Dalmatians",
+            "Guardians of the Galaxy Vol. 2"
+        ],
+        "likes": [
+            "Monsters, Inc.",
+            "The Jungle Book",
+            "A Bug's Life"
+        ],
+        "ratings": {
+            "Frozen II": 2,
+            "The Avengers": 5,
+            "Brave": 3,
+            "Sleeping Beauty": 2,
+            "Coco": 5,
+            "WALL-E": 3,
+            "Nightmare Before Christmas": 5
+        }
+    },
+    {
+        "user_id": 72,
+        "watchlist": [
+            "Hocus Pocus",
+            "Monsters, Inc.",
+            "Brave",
+            "Zootopia",
+            "Nightmare Before Christmas",
+            "Ratatouille"
+        ],
+        "watched": [
+            "Beauty and the Beast",
+            "Moana",
+            "Up",
+            "Guardians of the Galaxy Vol. 2",
+            "Turning Red",
+            "A Bug's Life",
+            "Big Hero 6",
+            "Toy Story",
+            "101 Dalmatians"
+        ],
+        "likes": [
+            "Cinderella",
+            "Dumbo",
+            "Inside Out"
+        ],
+        "ratings": {
+            "Inside Out": 1,
+            "Zootopia": 5,
+            "Doctor Strange": 4,
+            "Dumbo": 5,
+            "Black Panther": 4,
+            "Frozen II": 2
+        }
+    },
+    {
+        "user_id": 73,
+        "watchlist": [
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Moana",
+            "Ratatouille",
+            "Encanto",
+            "Captain America: Civil War"
+        ],
+        "watched": [
+            "Luca",
+            "Doctor Strange",
+            "101 Dalmatians",
+            "The Incredibles",
+            "Toy Story",
+            "Dumbo",
+            "Maleficent",
+            "Ant-Man",
+            "Eternals"
+        ],
+        "likes": [
+            "Iron Man 3",
+            "Peter Pan",
+            "Cars",
+            "Beauty and the Beast (2017)",
+            "Black Panther"
+        ],
+        "ratings": {
+            "Beauty and the Beast": 3,
+            "Moana": 5,
+            "Encanto": 3,
+            "Alice in Wonderland": 4,
+            "Soul": 2,
+            "Zootopia": 4
+        }
+    },
+    {
+        "user_id": 74,
+        "watchlist": [
+            "Monsters, Inc.",
+            "Pirates of the Caribbean",
+            "Ratatouille"
+        ],
+        "watched": [
+            "Bambi",
+            "Peter Pan",
+            "Ant-Man",
+            "Alice in Wonderland",
+            "A Bug's Life",
+            "Soul",
+            "Luca",
+            "The Lion King",
+            "Up"
+        ],
+        "likes": [
+            "The Incredibles",
+            "Sleeping Beauty",
+            "Dumbo"
+        ],
+        "ratings": {
+            "Beauty and the Beast": 3,
+            "Up": 2,
+            "Black Panther": 5,
+            "Dumbo": 4,
+            "Coco": 4
+        }
+    },
+    {
+        "user_id": 75,
+        "watchlist": [
+            "Turning Red",
+            "Finding Nemo",
+            "Snow White and the Seven Dwarfs",
+            "Pirates of the Caribbean",
+            "A Bug's Life"
+        ],
+        "watched": [
+            "The Lion King",
+            "WALL-E",
+            "Monsters, Inc.",
+            "The Incredibles",
+            "Black Panther",
+            "Guardians of the Galaxy Vol. 2",
+            "Zootopia",
+            "The Avengers",
+            "Alice in Wonderland"
+        ],
+        "likes": [
+            "Brave",
+            "Doctor Strange",
+            "Ant-Man"
+        ],
+        "ratings": {
+            "Guardians of the Galaxy Vol. 2": 1,
+            "Eternals": 1,
+            "Zootopia": 5,
+            "Iron Man 3": 3,
+            "Hocus Pocus": 1,
+            "WALL-E": 3
+        }
+    },
+    {
+        "user_id": 76,
+        "watchlist": [
+            "Snow White and the Seven Dwarfs",
+            "Peter Pan",
+            "Moana",
+            "Maleficent",
+            "Cinderella"
+        ],
+        "watched": [
+            "Zootopia",
+            "WALL-E",
+            "Big Hero 6",
+            "Inside Out",
+            "The Little Mermaid",
+            "Hocus Pocus"
+        ],
+        "likes": [
+            "The Jungle Book",
+            "Toy Story",
+            "Bambi",
+            "Soul"
+        ],
+        "ratings": {
+            "Ratatouille": 3,
+            "Dumbo": 3,
+            "Turning Red": 2,
+            "Cars": 2,
+            "Inside Out": 1,
+            "Pirates of the Caribbean": 1,
+            "WALL-E": 3,
+            "Onward": 4,
+            "Monsters, Inc.": 5,
+            "Black Panther": 2
+        }
+    },
+    {
+        "user_id": 77,
+        "watchlist": [
+            "Hocus Pocus",
+            "Pirates of the Caribbean",
+            "Ant-Man",
+            "Black Panther",
+            "A Bug's Life",
+            "Moana",
+            "Big Hero 6"
+        ],
+        "watched": [
+            "Luca",
+            "Iron Man 3",
+            "Maleficent",
+            "The Little Mermaid",
+            "The Incredibles",
+            "Cars"
+        ],
+        "likes": [
+            "Captain America: Civil War",
+            "Alice in Wonderland",
+            "Cinderella",
+            "WALL-E",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "ratings": {
+            "Brave": 5,
+            "Inside Out": 4,
+            "Eternals": 3,
+            "Hocus Pocus": 3,
+            "Toy Story": 4,
+            "Encanto": 1,
+            "Onward": 1,
+            "Peter Pan": 1,
+            "The Incredibles": 4
+        }
+    },
+    {
+        "user_id": 78,
+        "watchlist": [
+            "Coco",
+            "Hocus Pocus",
+            "Iron Man 3",
+            "WALL-E",
+            "Onward",
+            "Ratatouille"
+        ],
+        "watched": [
+            "Guardians of the Galaxy Vol. 2",
+            "Toy Story",
+            "Encanto",
+            "Brave",
+            "Luca",
+            "Nightmare Before Christmas",
+            "Inside Out",
+            "A Bug's Life"
+        ],
+        "likes": [
+            "Aladdin",
+            "The Little Mermaid",
+            "Eternals"
+        ],
+        "ratings": {
+            "Finding Nemo": 4,
+            "Nightmare Before Christmas": 1,
+            "Moana": 5,
+            "Cinderella": 2,
+            "The Jungle Book": 1,
+            "Soul": 3,
+            "Iron Man 3": 3,
+            "The Incredibles": 1,
+            "Toy Story": 3
+        }
+    },
+    {
+        "user_id": 79,
+        "watchlist": [
+            "Luca",
+            "Eternals",
+            "Ratatouille"
+        ],
+        "watched": [
+            "Black Panther",
+            "Finding Nemo",
+            "Aladdin",
+            "Doctor Strange",
+            "Thor: Ragnarok",
+            "The Avengers",
+            "Cinderella",
+            "Ant-Man"
+        ],
+        "likes": [
+            "Captain America: Civil War",
+            "Snow White and the Seven Dwarfs",
+            "Alice in Wonderland"
+        ],
+        "ratings": {
+            "Ratatouille": 4,
+            "The Little Mermaid": 1,
+            "Bambi": 2,
+            "Hocus Pocus": 1,
+            "Sleeping Beauty": 3
+        }
+    },
+    {
+        "user_id": 80,
+        "watchlist": [
+            "Guardians of the Galaxy Vol. 2",
+            "Bambi",
+            "WALL-E"
+        ],
+        "watched": [
+            "Beauty and the Beast (2017)",
+            "Iron Man 3",
+            "Brave",
+            "Nightmare Before Christmas",
+            "Frozen II",
+            "Ratatouille",
+            "Maleficent",
+            "Moana"
+        ],
+        "likes": [
+            "Zootopia",
+            "Snow White and the Seven Dwarfs",
+            "Encanto"
+        ],
+        "ratings": {
+            "Finding Nemo": 5,
+            "Coco": 2,
+            "Pirates of the Caribbean": 5,
+            "Beauty and the Beast (2017)": 5,
+            "Ratatouille": 5,
+            "Onward": 2,
+            "Guardians of the Galaxy Vol. 2": 3
+        }
+    },
+    {
+        "user_id": 81,
+        "watchlist": [
+            "Sleeping Beauty",
+            "Beauty and the Beast (2017)",
+            "Pirates of the Caribbean",
+            "Frozen II",
+            "Cars",
+            "Thor: Ragnarok"
+        ],
+        "watched": [
+            "Luca",
+            "WALL-E",
+            "The Lion King",
+            "Hocus Pocus",
+            "Toy Story"
+        ],
+        "likes": [
+            "Ratatouille",
+            "Turning Red",
+            "Maleficent"
+        ],
+        "ratings": {
+            "Ratatouille": 4,
+            "Hocus Pocus": 2,
+            "101 Dalmatians": 2,
+            "Guardians of the Galaxy Vol. 2": 2,
+            "Thor: Ragnarok": 1,
+            "Zootopia": 5,
+            "A Bug's Life": 5,
+            "Finding Nemo": 3,
+            "Sleeping Beauty": 1
+        }
+    },
+    {
+        "user_id": 82,
+        "watchlist": [
+            "Beauty and the Beast (2017)",
+            "Doctor Strange",
+            "Cinderella",
+            "Snow White and the Seven Dwarfs"
+        ],
+        "watched": [
+            "Eternals",
+            "A Bug's Life",
+            "The Incredibles",
+            "Luca",
+            "Alice in Wonderland",
+            "Toy Story",
+            "Soul",
+            "Guardians of the Galaxy Vol. 2",
+            "Peter Pan",
+            "Aladdin"
+        ],
+        "likes": [
+            "The Little Mermaid",
+            "Moana",
+            "Black Panther",
+            "WALL-E"
+        ],
+        "ratings": {
+            "Iron Man 3": 1,
+            "The Lion King": 1,
+            "Maleficent": 2,
+            "Frozen II": 5,
+            "Soul": 4,
+            "The Avengers": 1,
+            "The Incredibles": 4
+        }
+    },
+    {
+        "user_id": 83,
+        "watchlist": [
+            "WALL-E",
+            "Up",
+            "Zootopia",
+            "Bambi",
+            "Dumbo"
+        ],
+        "watched": [
+            "Doctor Strange",
+            "Sleeping Beauty",
+            "Moana",
+            "Cars",
+            "Captain America: Civil War",
+            "The Incredibles",
+            "Ant-Man",
+            "Maleficent",
+            "Beauty and the Beast (2017)"
+        ],
+        "likes": [
+            "Toy Story",
+            "Monsters, Inc.",
+            "Hocus Pocus",
+            "Onward"
+        ],
+        "ratings": {
+            "Thor: Ragnarok": 3,
+            "Ant-Man": 1,
+            "Eternals": 2,
+            "The Little Mermaid": 4,
+            "Sleeping Beauty": 1,
+            "The Avengers": 4,
+            "Maleficent": 4
+        }
+    },
+    {
+        "user_id": 84,
+        "watchlist": [
+            "Monsters, Inc.",
+            "Onward",
+            "Encanto",
+            "Iron Man 3"
+        ],
+        "watched": [
+            "Alice in Wonderland",
+            "Peter Pan",
+            "Moana",
+            "Cinderella",
+            "Big Hero 6",
+            "Maleficent",
+            "Ratatouille",
+            "Cars",
+            "WALL-E",
+            "Up"
+        ],
+        "likes": [
+            "Aladdin",
+            "Inside Out",
+            "Thor: Ragnarok"
+        ],
+        "ratings": {
+            "Eternals": 4,
+            "Toy Story": 4,
+            "Iron Man 3": 2,
+            "WALL-E": 2,
+            "Soul": 1,
+            "The Jungle Book": 4,
+            "Onward": 1
+        }
+    },
+    {
+        "user_id": 85,
+        "watchlist": [
+            "Hocus Pocus",
+            "Snow White and the Seven Dwarfs",
+            "Moana"
+        ],
+        "watched": [
+            "Eternals",
+            "Nightmare Before Christmas",
+            "Luca",
+            "Up",
+            "Encanto",
+            "101 Dalmatians",
+            "Beauty and the Beast",
+            "Black Panther"
+        ],
+        "likes": [
+            "The Avengers",
+            "Cars",
+            "Dumbo",
+            "Alice in Wonderland",
+            "Turning Red"
+        ],
+        "ratings": {
+            "Finding Nemo": 1,
+            "Big Hero 6": 3,
+            "Captain America: Civil War": 1,
+            "Hocus Pocus": 2,
+            "Snow White and the Seven Dwarfs": 3,
+            "Inside Out": 4,
+            "Frozen II": 3,
+            "Up": 5
+        }
+    },
+    {
+        "user_id": 86,
+        "watchlist": [
+            "Ratatouille",
+            "Frozen II",
+            "Big Hero 6",
+            "Ant-Man",
+            "Soul",
+            "Encanto",
+            "Toy Story"
+        ],
+        "watched": [
+            "Maleficent",
+            "The Lion King",
+            "Eternals",
+            "Alice in Wonderland",
+            "Cinderella",
+            "Beauty and the Beast (2017)"
+        ],
+        "likes": [
+            "WALL-E",
+            "The Incredibles",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "ratings": {
+            "Luca": 4,
+            "Maleficent": 3,
+            "Pirates of the Caribbean": 5,
+            "Encanto": 3,
+            "Soul": 1,
+            "Nightmare Before Christmas": 1,
+            "Onward": 1,
+            "Brave": 1
+        }
+    },
+    {
+        "user_id": 87,
+        "watchlist": [
+            "Shang-Chi and the Legend of the Ten Rings",
+            "Onward",
+            "Up",
+            "Luca",
+            "Aladdin",
+            "Captain America: Civil War"
+        ],
+        "watched": [
+            "Toy Story",
+            "Ant-Man",
+            "Beauty and the Beast",
+            "WALL-E",
+            "Big Hero 6",
+            "Alice in Wonderland",
+            "Dumbo"
+        ],
+        "likes": [
+            "Cinderella",
+            "Iron Man 3",
+            "Soul",
+            "101 Dalmatians"
+        ],
+        "ratings": {
+            "Finding Nemo": 3,
+            "Encanto": 2,
+            "A Bug's Life": 1,
+            "The Avengers": 2,
+            "Iron Man 3": 3,
+            "Black Panther": 2,
+            "Cars": 4,
+            "Brave": 4,
+            "Inside Out": 4
+        }
+    },
+    {
+        "user_id": 88,
+        "watchlist": [
+            "Nightmare Before Christmas",
+            "Snow White and the Seven Dwarfs",
+            "Beauty and the Beast (2017)",
+            "Toy Story",
+            "Maleficent",
+            "Up",
+            "Beauty and the Beast"
+        ],
+        "watched": [
+            "Zootopia",
+            "Pirates of the Caribbean",
+            "The Lion King",
+            "Finding Nemo",
+            "Turning Red",
+            "Frozen II",
+            "WALL-E",
+            "Thor: Ragnarok",
+            "Monsters, Inc."
+        ],
+        "likes": [
+            "Luca",
+            "Bambi",
+            "Cars"
+        ],
+        "ratings": {
+            "Captain America: Civil War": 4,
+            "The Avengers": 2,
+            "WALL-E": 2,
+            "Thor: Ragnarok": 4,
+            "Peter Pan": 2,
+            "Black Panther": 1,
+            "Moana": 1,
+            "Alice in Wonderland": 4
+        }
+    },
+    {
+        "user_id": 89,
+        "watchlist": [
+            "Turning Red",
+            "Hocus Pocus",
+            "The Little Mermaid",
+            "Monsters, Inc."
+        ],
+        "watched": [
+            "Nightmare Before Christmas",
+            "Cinderella",
+            "Ant-Man",
+            "Frozen II",
+            "Eternals",
+            "Ratatouille",
+            "The Lion King",
+            "Sleeping Beauty",
+            "Dumbo"
+        ],
+        "likes": [
+            "Iron Man 3",
+            "Inside Out",
+            "Finding Nemo",
+            "Snow White and the Seven Dwarfs",
+            "Soul"
+        ],
+        "ratings": {
+            "Guardians of the Galaxy Vol. 2": 2,
+            "A Bug's Life": 5,
+            "The Avengers": 1,
+            "Monsters, Inc.": 5,
+            "Sleeping Beauty": 5,
+            "The Incredibles": 3,
+            "Hocus Pocus": 2,
+            "Brave": 1,
+            "Beauty and the Beast (2017)": 4
+        }
+    },
+    {
+        "user_id": 90,
+        "watchlist": [
+            "Luca",
+            "Zootopia",
+            "Peter Pan",
+            "Iron Man 3",
+            "Aladdin",
+            "Dumbo",
+            "Toy Story"
+        ],
+        "watched": [
+            "Beauty and the Beast",
+            "Up",
+            "The Avengers",
+            "Encanto",
+            "Nightmare Before Christmas",
+            "Turning Red"
+        ],
+        "likes": [
+            "Soul",
+            "A Bug's Life",
+            "WALL-E",
+            "Beauty and the Beast (2017)"
+        ],
+        "ratings": {
+            "Bambi": 3,
+            "Luca": 4,
+            "A Bug's Life": 4,
+            "Captain America: Civil War": 3,
+            "Encanto": 4,
+            "Sleeping Beauty": 3,
+            "Thor: Ragnarok": 2,
+            "The Lion King": 5,
+            "Onward": 2
+        }
+    },
+    {
+        "user_id": 91,
+        "watchlist": [
+            "Alice in Wonderland",
+            "Pirates of the Caribbean",
+            "Finding Nemo",
+            "Maleficent",
+            "Beauty and the Beast",
+            "Hocus Pocus"
+        ],
+        "watched": [
+            "Doctor Strange",
+            "Moana",
+            "Thor: Ragnarok",
+            "Eternals",
+            "Encanto",
+            "Nightmare Before Christmas",
+            "A Bug's Life",
+            "WALL-E",
+            "Soul"
+        ],
+        "likes": [
+            "Bambi",
+            "Coco",
+            "The Lion King",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "ratings": {
+            "The Jungle Book": 2,
+            "Luca": 4,
+            "Big Hero 6": 4,
+            "Beauty and the Beast": 3,
+            "Alice in Wonderland": 4,
+            "The Avengers": 4,
+            "Thor: Ragnarok": 4
+        }
+    },
+    {
+        "user_id": 92,
+        "watchlist": [
+            "A Bug's Life",
+            "Nightmare Before Christmas",
+            "Cinderella",
+            "Ant-Man",
+            "WALL-E",
+            "Beauty and the Beast (2017)"
+        ],
+        "watched": [
+            "Aladdin",
+            "Frozen II",
+            "Zootopia",
+            "Turning Red",
+            "Doctor Strange",
+            "Thor: Ragnarok",
+            "Monsters, Inc.",
+            "Encanto"
+        ],
+        "likes": [
+            "Beauty and the Beast",
+            "Iron Man 3",
+            "Peter Pan",
+            "Snow White and the Seven Dwarfs"
+        ],
+        "ratings": {
+            "Frozen II": 4,
+            "Coco": 1,
+            "Toy Story": 1,
+            "The Lion King": 2,
+            "Up": 3,
+            "Captain America: Civil War": 1,
+            "Brave": 2,
+            "Inside Out": 3,
+            "Moana": 5
+        }
+    },
+    {
+        "user_id": 93,
+        "watchlist": [
+            "Maleficent",
+            "Thor: Ragnarok",
+            "Cars"
+        ],
+        "watched": [
+            "Onward",
+            "Guardians of the Galaxy Vol. 2",
+            "Ant-Man",
+            "Nightmare Before Christmas",
+            "Doctor Strange",
+            "Captain America: Civil War"
+        ],
+        "likes": [
+            "Beauty and the Beast",
+            "The Lion King",
+            "Cinderella"
+        ],
+        "ratings": {
+            "Alice in Wonderland": 1,
+            "Hocus Pocus": 3,
+            "The Avengers": 2,
+            "Encanto": 2,
+            "Up": 1,
+            "The Incredibles": 1,
+            "Ant-Man": 3,
+            "The Jungle Book": 2
+        }
+    },
+    {
+        "user_id": 94,
+        "watchlist": [
+            "Cars",
+            "Dumbo",
+            "Eternals",
+            "Nightmare Before Christmas",
+            "The Incredibles",
+            "The Jungle Book"
+        ],
+        "watched": [
+            "Soul",
+            "WALL-E",
+            "Snow White and the Seven Dwarfs",
+            "Aladdin",
+            "Zootopia",
+            "Iron Man 3",
+            "Maleficent",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "likes": [
+            "Onward",
+            "Monsters, Inc.",
+            "Doctor Strange"
+        ],
+        "ratings": {
+            "Beauty and the Beast (2017)": 3,
+            "Beauty and the Beast": 3,
+            "Brave": 2,
+            "Up": 1,
+            "Coco": 2,
+            "Maleficent": 1,
+            "Bambi": 4,
+            "Hocus Pocus": 5,
+            "Dumbo": 2
+        }
+    },
+    {
+        "user_id": 95,
+        "watchlist": [
+            "Toy Story",
+            "The Avengers",
+            "Onward",
+            "Beauty and the Beast"
+        ],
+        "watched": [
+            "Turning Red",
+            "The Incredibles",
+            "Sleeping Beauty",
+            "Cinderella",
+            "Nightmare Before Christmas",
+            "Pirates of the Caribbean"
+        ],
+        "likes": [
+            "Inside Out",
+            "Up",
+            "Alice in Wonderland",
+            "Moana",
+            "Snow White and the Seven Dwarfs"
+        ],
+        "ratings": {
+            "Turning Red": 5,
+            "Luca": 3,
+            "The Little Mermaid": 5,
+            "Pirates of the Caribbean": 4,
+            "Finding Nemo": 5,
+            "WALL-E": 4
+        }
+    },
+    {
+        "user_id": 96,
+        "watchlist": [
+            "Onward",
+            "Nightmare Before Christmas",
+            "Coco"
+        ],
+        "watched": [
+            "Hocus Pocus",
+            "Encanto",
+            "101 Dalmatians",
+            "The Little Mermaid",
+            "Pirates of the Caribbean",
+            "Peter Pan",
+            "Beauty and the Beast",
+            "Up"
+        ],
+        "likes": [
+            "Snow White and the Seven Dwarfs",
+            "Ant-Man",
+            "Turning Red",
+            "Guardians of the Galaxy Vol. 2"
+        ],
+        "ratings": {
+            "Snow White and the Seven Dwarfs": 3,
+            "Up": 1,
+            "Brave": 5,
+            "Beauty and the Beast (2017)": 3,
+            "Peter Pan": 3,
+            "Cars": 2,
+            "Monsters, Inc.": 5,
+            "Encanto": 4,
+            "WALL-E": 3
+        }
+    },
+    {
+        "user_id": 97,
+        "watchlist": [
+            "Cars",
+            "Turning Red",
+            "Shang-Chi and the Legend of the Ten Rings"
+        ],
+        "watched": [
+            "Black Panther",
+            "Frozen II",
+            "101 Dalmatians",
+            "Ant-Man",
+            "The Little Mermaid",
+            "Captain America: Civil War",
+            "Zootopia",
+            "The Lion King"
+        ],
+        "likes": [
+            "Guardians of the Galaxy Vol. 2",
+            "Aladdin",
+            "The Incredibles",
+            "Snow White and the Seven Dwarfs",
+            "Encanto"
+        ],
+        "ratings": {
+            "Zootopia": 1,
+            "Sleeping Beauty": 4,
+            "Soul": 4,
+            "Black Panther": 3,
+            "Moana": 2,
+            "Brave": 2,
+            "Monsters, Inc.": 4,
+            "Toy Story": 3,
+            "Shang-Chi and the Legend of the Ten Rings": 2
+        }
+    },
+    {
+        "user_id": 98,
+        "watchlist": [
+            "Captain America: Civil War",
+            "Onward",
+            "Coco",
+            "Guardians of the Galaxy Vol. 2"
+        ],
+        "watched": [
+            "Hocus Pocus",
+            "The Jungle Book",
+            "Doctor Strange",
+            "Brave",
+            "Toy Story",
+            "The Little Mermaid",
+            "The Lion King"
+        ],
+        "likes": [
+            "Aladdin",
+            "Soul",
+            "Dumbo"
+        ],
+        "ratings": {
+            "Inside Out": 2,
+            "Brave": 5,
+            "Turning Red": 3,
+            "A Bug's Life": 1,
+            "Snow White and the Seven Dwarfs": 1,
+            "The Little Mermaid": 3,
+            "Coco": 4,
+            "Alice in Wonderland": 5
+        }
+    },
+    {
+        "user_id": 99,
+        "watchlist": [
+            "The Lion King",
+            "Brave",
+            "Turning Red",
+            "Frozen II"
+        ],
+        "watched": [
+            "Zootopia",
+            "Beauty and the Beast",
+            "Captain America: Civil War",
+            "Alice in Wonderland",
+            "Iron Man 3",
+            "The Avengers",
+            "The Little Mermaid",
+            "Doctor Strange"
+        ],
+        "likes": [
+            "Toy Story",
+            "Eternals",
+            "Luca"
+        ],
+        "ratings": {
+            "Maleficent": 4,
+            "The Lion King": 1,
+            "Turning Red": 5,
+            "Monsters, Inc.": 2,
+            "Moana": 3,
+            "Coco": 5,
+            "Guardians of the Galaxy Vol. 2": 1,
+            "Up": 2,
+            "Nightmare Before Christmas": 1,
+            "Inside Out": 2
+        }
+    },
+    {
+        "user_id": 100,
+        "watchlist": [
+            "Maleficent",
+            "Soul",
+            "Captain America: Civil War",
+            "Snow White and the Seven Dwarfs",
+            "Nightmare Before Christmas",
+            "Dumbo",
+            "Thor: Ragnarok"
+        ],
+        "watched": [
+            "Pirates of the Caribbean",
+            "Eternals",
+            "Bambi",
+            "Sleeping Beauty",
+            "A Bug's Life",
+            "The Avengers",
+            "Zootopia",
+            "Cinderella",
+            "101 Dalmatians",
+            "Hocus Pocus"
+        ],
+        "likes": [
+            "Ratatouille",
+            "Aladdin",
+            "Finding Nemo",
+            "The Lion King",
+            "Inside Out"
+        ],
+        "ratings": {
+            "The Little Mermaid": 1,
+            "Pirates of the Caribbean": 2,
+            "Moana": 1,
+            "The Avengers": 2,
+            "Ratatouille": 2,
+            "Monsters, Inc.": 5
+        }
+    },
+    {
+        "user_id": 223,
+        "watchlist": [
+            
+        ],
+        "watched": [
+            "Ratatouille",
+            "Soul",
+            "WALL-E",
+            "Captain America: Civil War",
+            "The Avengers",
+            "Guardians of the Galaxy Vol. 2",
+            "Black Panther",
+            "Doctor Strange"
+        ],
+        "likes": [
+            "Guardians of the Galaxy Vol. 2",
+            "The Avengers",
+            "Captain America: Civil War",
+            "Ratatouille",
+            "WALL-E"            
+        ],
+        "ratings": {
+            "Ratatouille": 5,
+            "Soul": 3,
+            "WALL-E": 5,
+            "Captain America: Civil War": 4,
+            "The Avengers": 4,
+            "Guardians of the Galaxy Vol. 2": 5,
+            "Black Panther": 3,
+            "Doctor Strange": 2
+        }
+    }
+]
