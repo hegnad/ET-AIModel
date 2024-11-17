@@ -1,25 +1,45 @@
 <html>
   <head>
     <title>Curated Playlist</title>
+    <link rel="stylesheet" href="/static/style.css" />
+    <script>
+      async function fetchUserData() {
+        const userId = document.getElementById("user_id").value;
+        if (!userId) return;
+
+        const response = await fetch(`/user-data/${userId}`);
+        if (response.ok) {
+          const userData = await response.json();
+          document.getElementById("watchlist").innerHTML = userData.watchlist
+            .map(movie => `<li>${movie}</li>`)
+            .join("");
+          document.getElementById("watched").innerHTML = userData.watched
+            .map(movie => `<li>${movie}</li>`)
+            .join("");
+        } else {
+          document.getElementById("watchlist").innerHTML = "<li>User not found</li>";
+          document.getElementById("watched").innerHTML = "<li>User not found</li>";
+        }
+      }
+    </script>
   </head>
   <body>
     <h1>Generate a Curated Playlist</h1>
     <form method="post" action="/recommend">
       <label for="user_id">User ID:</label>
-      <input type="number" id="user_id" name="user_id" required />
-      <br />
-      <label for="genre">Preferred Genre:</label>
-      <input type="text" id="genre" name="genre" required />
+      <input type="number" id="user_id" name="user_id" required oninput="fetchUserData()" />
       <br />
       <button type="submit">Generate Playlist</button>
     </form>
-    {% if response %}
-    <h2>Curated Playlist:</h2>
-    <ul>
-      {% for item in response %}
-      <li>{{ item }}</li>
-      {% endfor %}
+
+    <h2>User Watchlist</h2>
+    <ul id="watchlist">
+      <li>Enter a User ID to see their watchlist</li>
     </ul>
-    {% endif %}
+
+    <h2>User Watched History (Oldest to Latest)</h2>
+    <ul id="watched">
+      <li>Enter a User ID to see their watched history</li>
+    </ul>
   </body>
 </html>

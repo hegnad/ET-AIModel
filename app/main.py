@@ -48,12 +48,44 @@ def load_users():
 bert_model, movie_encoder, movie_decoder = load_resources()
 users = load_users()
 
+def load_movies():
+    """
+    Load movie data from JSON file.
+    """
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    data_dir = os.path.join(base_dir, "data")
+    with open(os.path.join(data_dir, "mock_catalog.json"), "r") as movie_file:
+        return json.load(movie_file)
+
+movies = load_movies()
+
 @app.get("/", response_class=HTMLResponse)
 async def read_form(request: Request):
     """
     Display the form for generating recommendations.
     """
     return templates.TemplateResponse("form.html", {"request": request})
+
+@app.get("/user-data/{user_id}")
+async def get_user_data(user_id: int):
+    """
+    Retrieve the watchlist and watched movies for a specific user.
+
+    Args:
+        user_id (int): The user's ID.
+
+    Returns:
+        dict: A JSON response with the user's watchlist and watched history.
+    """
+    # Get user data
+    user = next((user for user in users if user["user_id"] == user_id), None)
+    if not user:
+        raise HTTPException(status_code=404, detail="User not found")
+
+    return {
+        "watchlist": user["watchlist"],
+        "watched": user["watched"]
+    }
 
 @app.post("/recommend")
 async def recommend(user_id: int = Form(...)):
@@ -64,7 +96,7 @@ async def recommend(user_id: int = Form(...)):
         user_id (int): The user's ID.
 
     Returns:
-        dict: A JSON response with recommended movie titles.
+        dict: A JSON response with recommended movie titles, popularity scores, and explanations.
     """
     # Get user data
     user = next((user for user in users if user["user_id"] == user_id), None)
@@ -91,7 +123,27 @@ async def recommend(user_id: int = Form(...)):
         movie_id for movie_id in recommended_ids if movie_id not in watched_ids
     ]
 
-    # Map recommendations back to titles
-    recommended_titles = [movie_encoder[movie_id] for movie_id in filtered_recommendations[:10]]
+    # Map recommendations back to titles and add metadata
+    recommendations = []
+    for movie_id in filtered_recommendations[:10]:  # Limit to top 10
+        movie_title = movie_encoder[movie_id]
+        movie_details = next((movie for movie in movies if movie["title"] == movie_title), None)
+        if movie_details:
+            explanation = []
+            if movie_title in user["watched"]:
+                explanation.append("Based on your watch history")
+            if movie_title in user["likes"]:
+                explanation.append("You liked similar movies")
+            if movie_title in user["watchlist"]:
+                explanation.append("On your watchlist")
+            if movie_title in user["ratings"]:
+                explanation.append(f"High rating ({user['ratings'][movie_title]}/5)")
 
-    return {"recommendations": recommended_titles}
+            recommendations.append({
+                "title": movie_title,
+                "popularity": movie_details["popularity"],
+                "explanation": ", ".join(explanation) if explanation else "Recommended by model",
+            })
+
+    return {"recommendations": recommendations}
+

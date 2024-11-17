@@ -2,7 +2,7 @@ from bert4rec import train_model
 from playlist_generator import data_loader, movie_encoder
 
 # Define paths
-MODEL_SAVE_PATH = "trainingData/bert4rec_model.pth"
+MODEL_SAVE_PATH = "data/bert4rec_model.pth"
 
 def main():
     """
