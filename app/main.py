@@ -59,6 +59,24 @@ def load_movies():
 
 movies = load_movies()
 
+@app.get("/movie-titles")
+async def get_movie_titles(query: str = ""):
+    """
+    Fetch movie titles matching the query.
+
+    Args:
+        query (str): The query string to search for movie titles.
+
+    Returns:
+        list: A list of movie titles matching the query.
+    """
+    suggestions = [
+        movie["title"]
+        for movie in movies
+        if query.lower() in movie["title"].lower()
+    ][:10]  # Limit results to 10 suggestions
+    return {"suggestions": suggestions}
+
 @app.get("/", response_class=HTMLResponse)
 async def read_form(request: Request):
     """
@@ -147,3 +165,32 @@ async def recommend(user_id: int = Form(...)):
 
     return {"recommendations": recommendations}
 
+@app.post("/recommend-by-title")
+async def recommend_by_title(title: str):
+    """
+    Recommend movies based on a single movie title.
+
+    Args:
+        title (str): The title of the movie.
+
+    Returns:
+        dict: A JSON response with recommended movie titles.
+    """
+    # Check if the movie exists in the catalog
+    movie = next((m for m in movies if m["title"].lower() == title.lower()), None)
+    if not movie:
+        raise HTTPException(status_code=404, detail="Movie not found in catalog")
+
+    # Simulate recommendations (replace with actual model logic if needed)
+    recommendations = [
+        m
+        for m in movies
+        if m["title"] != title and m["genre"] and set(movie["genre"]) & set(m["genre"])
+    ][:10]  # Limit recommendations to top 10
+
+    # Add popularity information
+    recommendations_with_popularity = [
+        {"title": m["title"], "popularity": m["popularity"]} for m in recommendations
+    ]
+
+    return {"recommendations": recommendations_with_popularity}
