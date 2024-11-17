@@ -7,3 +7,6 @@ python-multipart
 python-dotenv
 uvicorn
 tavily-python
+torch
+numpy
+scikit-learn
