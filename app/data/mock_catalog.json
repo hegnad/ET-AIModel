@@ -1,0 +1,707 @@
+[
+    {
+        "title": "Zootopia",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 59,
+        "release_year": 2016
+    },
+    {
+        "title": "Avengers: Endgame",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "popularity": 100,
+        "release_year": 2019
+    },
+    {
+        "title": "Frozen",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "popularity": 100,
+        "release_year": 2013
+    },
+    {
+        "title": "Doctor Strange",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "popularity": 61,
+        "release_year": 2016
+    },
+    {
+        "title": "Aladdin (2019)",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "popularity": 100,
+        "release_year": 2019
+    },
+    {
+        "title": "Soul",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "popularity": 55,
+        "release_year": 2020
+    },
+    {
+        "title": "Rogue One: A Star Wars Story",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "popularity": 100,
+        "release_year": 2016
+    },
+    {
+        "title": "The Jungle Book (2016)",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Family"
+        ],
+        "popularity": 100,
+        "release_year": 2016
+    },
+    {
+        "title": "Toy Story 4",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 100,
+        "release_year": 2019
+    },
+    {
+        "title": "The Little Mermaid",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 86,
+        "release_year": 1989
+    },
+    {
+        "title": "The Lion King (2019)",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Family"
+        ],
+        "popularity": 100,
+        "release_year": 2019
+    },
+    {
+        "title": "Coco",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 95,
+        "release_year": 2017
+    },
+    {
+        "title": "Encanto",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "popularity": 54,
+        "release_year": 2021
+    },
+    {
+        "title": "Finding Dory",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 100,
+        "release_year": 2016
+    },
+    {
+        "title": "Big Hero 6",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "popularity": 79,
+        "release_year": 2014
+    },
+    {
+        "title": "Captain Marvel",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "popularity": 100,
+        "release_year": 2019
+    },
+    {
+        "title": "Maleficent: Mistress of Evil",
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "popularity": 100,
+        "release_year": 2019
+    },
+    {
+        "title": "Ratatouille",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 68,
+        "release_year": 2007
+    },
+    {
+        "title": "Moana",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 65,
+        "release_year": 2016
+    },
+    {
+        "title": "The Incredibles 2",
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "popularity": 100,
+        "release_year": 2018
+    },
+    {
+        "title": "Thor: Ragnarok",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 62,
+        "release_year": 2017
+    },
+    {
+        "title": "Black Panther",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "popularity": 98,
+        "release_year": 2018
+    },
+    {
+        "title": "Ant-Man and the Wasp",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 100,
+        "release_year": 2018
+    },
+    {
+        "title": "The Good Dinosaur",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 100,
+        "release_year": 2015
+    },
+    {
+        "title": "Brave",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 71,
+        "release_year": 2012
+    },
+    {
+        "title": "Eternals",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "popularity": 50,
+        "release_year": 2021
+    },
+    {
+        "title": "Turning Red",
+        "genre": [
+            "Animation",
+            "Comedy",
+            "Family"
+        ],
+        "popularity": 65,
+        "release_year": 2022
+    },
+    {
+        "title": "Luca",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 69,
+        "release_year": 2021
+    },
+    {
+        "title": "101 Dalmatians",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 98,
+        "release_year": 1961
+    },
+    {
+        "title": "Sleeping Beauty",
+        "genre": [
+            "Animation",
+            "Fantasy",
+            "Romance"
+        ],
+        "popularity": 93,
+        "release_year": 1959
+    },
+    {
+        "title": "The Aristocats",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 100,
+        "release_year": 1970
+    },
+    {
+        "title": "Hercules",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 100,
+        "release_year": 1997
+    },
+    {
+        "title": "Tarzan",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 100,
+        "release_year": 1999
+    },
+    {
+        "title": "Beauty and the Beast",
+        "genre": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "popularity": 94,
+        "release_year": 1991
+    },
+    {
+        "title": "Cinderella",
+        "genre": [
+            "Animation",
+            "Family",
+            "Fantasy"
+        ],
+        "popularity": 58,
+        "release_year": 1950
+    },
+    {
+        "title": "Mulan",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 100,
+        "release_year": 1998
+    },
+    {
+        "title": "Frozen II",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "popularity": 96,
+        "release_year": 2019
+    },
+    {
+        "title": "Onward",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 57,
+        "release_year": 2020
+    },
+    {
+        "title": "Dumbo",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "popularity": 83,
+        "release_year": 1941
+    },
+    {
+        "title": "The Rescuers",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 100,
+        "release_year": 1977
+    },
+    {
+        "title": "Alice in Wonderland",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Fantasy"
+        ],
+        "popularity": 50,
+        "release_year": 1951
+    },
+    {
+        "title": "Peter Pan",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 78,
+        "release_year": 1953
+    },
+    {
+        "title": "The Sword in the Stone",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 100,
+        "release_year": 1963
+    },
+    {
+        "title": "The Fox and the Hound",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "popularity": 100,
+        "release_year": 1981
+    },
+    {
+        "title": "Oliver & Company",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "popularity": 100,
+        "release_year": 1988
+    },
+    {
+        "title": "The Great Mouse Detective",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Mystery"
+        ],
+        "popularity": 100,
+        "release_year": 1986
+    },
+    {
+        "title": "Pocahontas",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "popularity": 100,
+        "release_year": 1995
+    },
+    {
+        "title": "The Hunchback of Notre Dame",
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Drama"
+        ],
+        "popularity": 100,
+        "release_year": 1996
+    },
+    {
+        "title": "Toy Story",
+        "genre": [
+            "Animation",
+            "Family"
+        ],
+        "popularity": 94,
+        "release_year": 2000
+    },
+    {
+        "title": "Pirates of the Caribbean",
+        "genre": [
+            "Adventure",
+            "Action"
+        ],
+        "popularity": 92,
+        "release_year": 2000
+    },
+    {
+        "title": "Finding Nemo",
+        "genre": [
+            "Animation",
+            "Family"
+        ],
+        "popularity": 93,
+        "release_year": 2000
+    },
+    {
+        "title": "Aladdin",
+        "genre": [
+            "Animation",
+            "Musical"
+        ],
+        "popularity": 90,
+        "release_year": 2000
+    },
+    {
+        "title": "The Lion King",
+        "genre": [
+            "Animation",
+            "Family"
+        ],
+        "popularity": 98,
+        "release_year": 2000
+    },
+    {
+        "title": "WALL-E",
+        "genre": [
+            "Animation",
+            "Sci-Fi"
+        ],
+        "popularity": 91,
+        "release_year": 2000
+    },
+    {
+        "title": "Captain America: Civil War",
+        "genre": [
+            "Action",
+            "Superhero"
+        ],
+        "popularity": 93,
+        "release_year": 2000
+    },
+    {
+        "title": "The Incredibles",
+        "genre": [
+            "Animation",
+            "Action"
+        ],
+        "popularity": 94,
+        "release_year": 2000
+    },
+    {
+        "title": "Up",
+        "genre": [
+            "Animation",
+            "Adventure"
+        ],
+        "popularity": 94,
+        "release_year": 2000
+    },
+    {
+        "title": "Monsters, Inc.",
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "popularity": 91,
+        "release_year": 2000
+    },
+    {
+        "title": "Ant-Man",
+        "genre": [
+            "Action",
+            "Superhero"
+        ],
+        "popularity": 88,
+        "release_year": 2000
+    },
+    {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "popularity": 90,
+        "release_year": 2000
+    },
+    {
+        "title": "The Jungle Book",
+        "genre": [
+            "Adventure",
+            "Family"
+        ],
+        "popularity": 91,
+        "release_year": 2000
+    },
+    {
+        "title": "The Avengers",
+        "genre": [
+            "Action",
+            "Superhero"
+        ],
+        "popularity": 97,
+        "release_year": 2000
+    },
+    {
+        "title": "Iron Man 3",
+        "genre": [
+            "Action",
+            "Superhero"
+        ],
+        "popularity": 92,
+        "release_year": 2000
+    },
+    {
+        "title": "Beauty and the Beast (2017)",
+        "genre": [
+            "Fantasy",
+            "Romance"
+        ],
+        "popularity": 87,
+        "release_year": 2000
+    },
+    {
+        "title": "Maleficent",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "popularity": 89,
+        "release_year": 2000
+    },
+    {
+        "title": "Inside Out",
+        "genre": [
+            "Animation",
+            "Family"
+        ],
+        "popularity": 97,
+        "release_year": 2000
+    },
+    {
+        "title": "Cars",
+        "genre": [
+            "Animation",
+            "Family"
+        ],
+        "popularity": 86,
+        "release_year": 2000
+    },
+    {
+        "title": "A Bug's Life",
+        "genre": [
+            "Animation",
+            "Family"
+        ],
+        "popularity": 85,
+        "release_year": 2000
+    },
+    {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "genre": [
+            "Action",
+            "Superhero"
+        ],
+        "popularity": 93,
+        "release_year": 2000
+    },
+    {
+        "title": "Hocus Pocus",
+        "genre": [
+            "Comedy",
+            "Fantasy"
+        ],
+        "popularity": 90,
+        "release_year": 2000
+    },
+    {
+        "title": "Nightmare Before Christmas",
+        "genre": [
+            "Animation",
+            "Fantasy"
+        ],
+        "popularity": 94,
+        "release_year": 2000
+    },
+    {
+        "title": "Snow White and the Seven Dwarfs",
+        "genre": [
+            "Animation",
+            "Fantasy"
+        ],
+        "popularity": 89,
+        "release_year": 2000
+    },
+    {
+        "title": "Bambi",
+        "genre": [
+            "Animation",
+            "Drama"
+        ],
+        "popularity": 85,
+        "release_year": 2000
+    }
+]

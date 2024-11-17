@@ -1,18 +1,148 @@
-<!-- templates/form.html -->
 <html>
+
   <head>
-    <title>FastAPI Form Example</title>
+
+    <title>Curated Playlist</title>
+
+    <link rel="stylesheet" href="/static/style.css" />
+
+    <script>
+
+      async function fetchUserData() {
+        const userId = document.getElementById("user_id").value;
+        if (!userId) return;
+
+        const response = await fetch(`/user-data/${userId}`);
+        if (response.ok) {
+          const userData = await response.json();
+          document.getElementById("watchlist").innerHTML = userData.watchlist
+            .map(movie => `<li>${movie}</li>`)
+            .join("");
+          document.getElementById("watched").innerHTML = userData.watched
+            .map(movie => `<li>${movie}</li>`)
+            .join("");
+        } else {
+          document.getElementById("watchlist").innerHTML = "<li>User not found</li>";
+          document.getElementById("watched").innerHTML = "<li>User not found</li>";
+        }
+      }
+
+      async function fetchMovieRecommendations() {
+        const movieTitle = document.getElementById("movie_title").value;
+
+        if (!movieTitle) {
+          alert("Please enter a movie title!");
+          return;
+        }
+
+        try {
+          // Send POST request to get recommendations
+          const response = await fetch("/recommend-by-title", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({ title: movieTitle }),
+          });
+
+          console.log("Response status:", response.status);
+
+          if (response.ok) {
+            const data = await response.json();
+            console.log("Recommendations:", data); // Log the response for debugging
+
+            const recommendations = data.recommendations;
+
+            // Update the UI with recommendations
+            const recommendationList = document.getElementById("movie_recommendations");
+            if (recommendations.length === 0) {
+              recommendationList.innerHTML = "<li>No recommendations found.</li>";
+            } else {
+              recommendationList.innerHTML = recommendations
+                .map(
+                  (rec) =>
+                    `<li>${rec.title} - Popularity: ${rec.popularity}</li>`
+                )
+                .join("");
+            }
+          } else {
+            // Handle errors
+            const errorData = await response.json();
+            console.log("Error response:", errorData); // Log error for debugging
+            alert(`Error: ${errorData.detail || "An unknown error occurred."}`);
+          }
+        } catch (error) {
+          console.error("Failed to fetch recommendations:", error); // Log network errors
+          alert("An error occurred while fetching recommendations. Check the console for details.");
+        }
+      }
+
+      async function fetchMovieSuggestions() {
+        const input = document.getElementById("movie_title").value;
+        if (!input) {
+          document.getElementById("movie_suggestions").innerHTML = "";
+          return;
+        }
+
+        const response = await fetch(`/movie-titles?query=${encodeURIComponent(input)}`);
+        if (response.ok) {
+          const data = await response.json();
+          const suggestions = data.suggestions;
+          document.getElementById("movie_suggestions").innerHTML = suggestions
+            .map(title => `<li onclick="selectMovie('${title}')">${title}</li>`)
+            .join("");
+        }
+      }
+
+      function selectMovie(title) {
+        document.getElementById("movie_title").value = title;
+        document.getElementById("movie_suggestions").innerHTML = "";
+      }
+
+    </script>
+
   </head>
+  
   <body>
-    <h1>Prompt a Model</h1>
-    <form method="post">
-      <label for="prompt">Enter a prompt:</label>
-      <input type="text" id="prompt" name="prompt" required />
-      <button type="submit">Submit</button>
+
+    <h1>Generate a Curated Playlist</h1>
+
+    <form method="post" action="/recommend">
+      <label for="user_id">User ID:</label>
+      <input type="number" id="user_id" name="user_id" required oninput="fetchUserData()" />
+      <br />
+      <button type="submit">Generate Playlist</button>
     </form>
-    {% if response %}
-    <h2>Response:</h2>
-    <p>{{ response }}</p>
-    {% endif %}
+
+    <h2>User Watchlist</h2>
+
+    <ul id="watchlist">
+      <li>Enter a User ID to see their watchlist</li>
+    </ul>
+
+    <h2>User Watched History (Oldest to Latest)</h2>
+
+    <ul id="watched">
+      <li>Enter a User ID to see their watched history</li>
+    </ul>
+
+    <h2>Get Recommendations by Movie</h2>
+
+    <label for="movie_title">Enter a movie title:</label>
+    <input
+    type="text"
+    id="movie_title"
+    placeholder="e.g., Toy Story"
+    oninput="fetchMovieSuggestions()"
+    />
+    <ul id="movie_suggestions" style="list-style-type: none; padding: 0; margin: 0;">
+      <!-- Auto-complete suggestions will appear here -->
+    </ul>    
+    <button type="button" onclick="fetchMovieRecommendations()">Get Recommendations</button>
+    <ul id="movie_recommendations">
+
+    </ul>
+
   </body>
+
 </html>
