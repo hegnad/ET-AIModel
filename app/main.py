@@ -1,7 +1,6 @@
 from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
-from app.middleware.processPrompt import promptResponse
 from app.middleware.modeltest import model_test
 
 app = FastAPI()
@@ -14,9 +13,7 @@ async def read_form(request: Request):
     return templates.TemplateResponse("form.html", {"request": request})
 
 @app.post("/", response_class=HTMLResponse)
-async def process_form(request: Request, prompt: str = Form(...)):
-    # Here you can process the prompt and get the response
-
-    # newResponse = promptResponse(prompt)
-    newResponse = model_test(prompt)
-    return templates.TemplateResponse("form.html", {"request": request, "response": newResponse})
+async def process_form(request: Request, user_prompt: str = Form(...)):
+    # Call the model to generate the playlists based on the user prompt
+    playlists = model_test(user_prompt)
+    return templates.TemplateResponse("form.html", {"request": request, "response": playlists})
