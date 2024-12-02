@@ -2,8 +2,12 @@ from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 from app.middleware.modeltest import model_test
+from fastapi.staticfiles import StaticFiles
 
 app = FastAPI()
+
+# Serve static files (like CSS, images) from the 'static' folder
+app.mount("/static", StaticFiles(directory="app/static"), name="static")
 
 # Setup templates directory
 templates = Jinja2Templates(directory="app/templates")

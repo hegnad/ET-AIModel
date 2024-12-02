@@ -1,0 +1,113 @@
+@font-face {
+    font-family: 'Josefin Sans';  /* Define a name for the font */
+    src: url('/static/fonts/JosefinSans-VariableFont_wght.ttf') format('truetype'); /* Path to the variable font file */
+    font-weight: 100 900; /* Define the range of weights for the variable font */
+    font-style: normal;  /* Optional: You can specify the style if needed (normal, italic, etc.) */
+  }
+
+body {
+    justify-content: center;
+    align-items: center;
+    background-color: #15151E;
+    font-family: 'Josefin Sans';
+}
+
+h1 {
+    color: white;
+}
+
+#playlists {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .playlist {
+    padding: 10px;
+    border-radius: 8px;
+    background-color: #42425E;
+  }
+  
+  .playlist-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    color: white;
+  }
+  
+  .movie-description {
+    font-size: 14px;
+    margin-bottom: 5px;
+  }
+
+  /* Style for input fields */
+.input {
+    width: 75%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ff8a00;
+    background-color: #1a1a2e;
+    color: white;
+    font-size: 1rem;
+    transition: transform 0.3s ease;
+  }
+  
+  .input::placeholder {
+    color: #999;
+  }
+  
+  .input:hover {
+    transform: scale(1.02);
+  }
+  
+.submitButton {
+    padding: 10px 20px;
+    background-color: #FF8A00;
+    color: white;
+    width: 50%;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-family: 'Josefin Sans';
+    margin-bottom: 10px;
+    transition: background-color 0.3s, transform 0.3s ease;
+}
+
+    .submitButton:hover {
+        background-color: #4CAF50;
+        transform: scale(1.05);
+    }
+  
+    /* Playlist Header */
+.playlist-header {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    background-color: #0F0F0F; /* Or any other color */
+    padding: 10px;
+    border-radius: 8px;
+    color: white;
+  }
+  
+  /* Movie Title */
+  .movie-title {
+    font-weight: bold;
+    margin: 5px 0;
+  }
+  
+  /* Movie Description */
+  .movie-description {
+    margin: 5px 0;
+    padding-left: 20px;
+    color: white;
+  }
+  
+  /* Playlist Footer */
+  .playlist-footer {
+    font-size: 1rem;
+    margin-top: 20px;
+    font-style: italic;
+    color: white;
+  }
+  

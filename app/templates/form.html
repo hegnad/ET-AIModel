@@ -3,56 +3,45 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>FastAPI Movie Playlist Curator</title>
-    <style>
-      #playlists {
-        display: flex;
-        flex-direction: column;
-        gap: 20px;
-      }
-
-      .playlist {
-        border: 1px solid #ddd;
-        padding: 10px;
-        border-radius: 8px;
-      }
-
-      .playlist-title {
-        font-weight: bold;
-        font-size: 1.5rem;
-        margin-bottom: 10px;
-      }
-
-      .movie-description {
-        font-size: 14px;
-        margin-bottom: 5px;
-      }
-    </style>
+    <title>FastAPI + OpenAI Movie Playlist Curator</title>
+    <link rel="stylesheet" href="/static/styles.css" />
   </head>
   <body>
     <h1>Let me help you find something!</h1>
 
     <form method="post">
-      <label for="user_prompt">Enter your preferences:</label>
-      <textarea id="user_prompt" name="user_prompt" rows="4" cols="50" required></textarea><br><br>
+      <textarea id="user_prompt" name="user_prompt" class="input" rows="4" cols="50" required></textarea><br><br>
 
-      <button type="submit">Submit</button>
+      <button type="submit" class="submitButton">Submit</button>
     </form>
 
+    <br />
+
     {% if response %}
-      <h2>Generated Playlists:</h2>
-      <div id="playlists">
-        {% for playlist in response %}
-          <div class="playlist">
-            <h3 class="playlist-title">{{ playlist.split('\n')[0] }}</h3> <!-- Playlist title -->
-            {% for movie in playlist.split('\n')[1:] %}
-              <div class="movie-description">
-                {{ movie }} <!-- Movie description -->
-              </div>
-            {% endfor %}
+    <div id="playlists">
+      {% for playlist in response %}
+        <div class="playlist">
+          <div class="playlist-header">
+            <strong>{{ playlist.playlist_title }}</strong>
           </div>
-        {% endfor %}
-      </div>
+          
+          <!-- Display Movies -->
+          {% for movie in playlist.movies %}
+            <div class="movie">
+              <div class="movie-title">{{ movie.title }}</div>
+              <div class="movie-description">{{ movie.description }}</div>
+            </div>
+          {% endfor %}
+
+          <!-- Display Playlist Description -->
+          <div class="playlist-footer">
+            <em>{{ playlist.playlist_description }}</em>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
     {% endif %}
+
   </body>
+
 </html>
