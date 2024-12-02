@@ -27,11 +27,15 @@ cd ET-AIModel
 
 ### 2. Install all dependencies using either of the following:
 
+```bash
 pip install -r requirements.txt
+```
 
 or
 
+```bash
 pip3 install -r requirements.txt
+```
 
 ### 3. Configure OpenAI API:
 
